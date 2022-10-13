@@ -58,7 +58,7 @@
 
 ## [CSS](https://github.com/Aramil326/resume/blob/master/README_RUS.md#css-1)
 
-## [LESS](#less)
+## [LESS](https://github.com/Aramil326/resume/blob/master/README_RUS.md#less-1)
 
 ## [БЭМ](#бэм)
 
@@ -464,27 +464,50 @@
 
 ## LESS
 >>[Введение](https://code.mu/ru/markup/book/prep/less/intro/)
+
 >>[Комментарии](https://code.mu/ru/markup/book/prep/less/comments/)
+
 >>[Вложенные конструкции](https://code.mu/ru/markup/book/prep/less/nested-constructions/)
+
 >>[Селекторы по родству при вложенности](https://code.mu/ru/markup/book/prep/less/nested-relative-selectors/)
+
 >>[Соединение селекторов](https://code.mu/ru/markup/book/prep/less/nested-selectors-bundling/)
+
 >>[Переменные](https://code.mu/ru/markup/book/prep/less/variables/)
+
 >>[Переменные внутри селекторов](https://code.mu/ru/markup/book/prep/less/variables-inside-selectors/)
+
 >>[Ключевые слова и переменные](https://code.mu/ru/markup/book/prep/less/keywords-and-variables/)
+
 >>[Математические оперции](https://code.mu/ru/markup/book/prep/less/math-operations/)
+
 >>[Отмена математических операций](https://code.mu/ru/markup/book/prep/less/math-operations-escaping/)
+
 >>[Миксины](https://code.mu/ru/markup/book/prep/less/mixins/)
+
 >>[Пространства имен](https://code.mu/ru/markup/book/prep/less/namespaces/)
+
 >>[Функции](https://code.mu/ru/markup/book/prep/less/functions/)
+
 >>[Несколько параметров в функциях](https://code.mu/ru/markup/book/prep/less/functions-several-parameters/)
+
 >>[Необязательные параметры в функциях](https://code.mu/ru/markup/book/prep/less/functions-optional-parameters/)
+
 >>[Все параметры функции](https://code.mu/ru/markup/book/prep/less/all-function-parameters/)
+
 >>[Параметры с запятыми](https://code.mu/ru/markup/book/prep/less/parameters-with-commas/)
+
 >>[Объединение через запятую](https://code.mu/ru/markup/book/prep/less/merging-with-comma/)
+
 >>[Объединение через пробел](https://code.mu/ru/markup/book/prep/less/merging-with-space/)
+
 >>[Блок кода в переменной](https://code.mu/ru/markup/book/prep/less/variable-code-block/)
+
 >>[Медиазапросы](https://code.mu/ru/markup/book/prep/less/mediaqueries/)
+
 >>[Функция calc](https://code.mu/ru/markup/book/prep/less/calc-function/)
+
 >>[Импортирование файлов](https://code.mu/ru/markup/book/prep/less/files-import/)
+
 >>[Вендорные префиксы](https://code.mu/ru/markup/book/prep/less/vendor-prefixes/)
 >>[]()
