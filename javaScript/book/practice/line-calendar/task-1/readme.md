@@ -1,0 +1,1 @@
+#### Output in the form of a list ul all the days of the current month. Use CSS to line up the list items.

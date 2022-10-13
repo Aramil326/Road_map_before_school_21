@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: 300px;
+}
+
+#parent {
+  margin: 0 auto;
+  width: 600px;
+}
+
+#input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+#table {
+  width: 100%;
+}
+
+#table td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+}

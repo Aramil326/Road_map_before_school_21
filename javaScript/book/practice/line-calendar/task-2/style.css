@@ -1,0 +1,14 @@
+.calendar {
+  width: 1000px;
+  height: 70vh;
+  padding: 50px;
+  border-radius: 80px;
+  border: 1px solid #000;
+}
+
+.all-days {
+  font-size: 26px;
+  width: 100%;
+  justify-content: space-around;
+  display: flex;
+}

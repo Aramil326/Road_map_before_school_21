@@ -1,0 +1,1 @@
+#### Modify the previous task so that it also displays a message about how many characters in the text minus spaces.

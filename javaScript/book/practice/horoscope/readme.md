@@ -1,0 +1,3 @@
+#### Now we are implementing a horoscope website. This site will issue horoscopes for today. Let the user, upon entering the site, see an input into which they need to enter their date of birth. Let by pressing Enter, our site will give the user a horoscope for the current day for his zodiac sign.
+
+#### Let us also have radio buttons: today, tomorrow, week. Let's make it so that, depending on the choice, the horoscope for the corresponding day is displayed. Obviously, today will be selected by default, but the user can change their choice if they wish.

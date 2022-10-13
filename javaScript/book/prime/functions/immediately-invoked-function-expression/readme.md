@@ -1,0 +1,1 @@
+https://code.mu/ru/javascript/book/prime/functions/immediately-invoked-function-expression/

@@ -1,0 +1,1 @@
+#### Given 2 inputs and a button. Numbers are entered into the inputs. On clicking the button, display a list of common divisors of these two numbers.

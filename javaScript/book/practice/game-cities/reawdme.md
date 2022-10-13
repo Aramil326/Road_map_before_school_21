@@ -1,0 +1,3 @@
+#### There is a game in the city. Its rules are: cities are played by two or more people, in which each participant, in turn, names a real-life city of any country, the name of which begins with the letter that ends with the name of the previous participant.
+
+#### Let's implement this game. Let two people play at one computer. They take turns. Cities are entered in one input and sent by pressing the Enter key. The browser should remember the cities that have already been, and not accept such cities.

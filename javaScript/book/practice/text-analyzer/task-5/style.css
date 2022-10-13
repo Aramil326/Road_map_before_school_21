@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 99%;
+  height: 94vh;
+  flex-direction: column;
+}
+
+.textarea {
+  margin-bottom: 30px;
+}
+
+.checboxes {
+  margin-bottom: 40px;
+  width: 519px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.checboxes input {
+  width: 20px;
+  height: 20px;
+}
+
+.statucs {
+  height: 220px;
+}

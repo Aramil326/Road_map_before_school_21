@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
+
+#input,
+#list {
+  display: inline-block;
+}
+
+#list {
+  padding: 0;
+  list-style-type: none;
+}
+
+#list span {
+  margin-right: 5px;
+}
+
+#list .remove,
+#list .mark {
+  color: blue;
+  cursor: pointer;
+}
+
+#list .remove:hover,
+#list .mark:hover {
+  text-decoration: underline;
+}

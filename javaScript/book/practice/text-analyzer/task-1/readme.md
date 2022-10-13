@@ -1,0 +1,1 @@
+#### Given textarea. Let text be entered into it. Make it so that when the focus is lost under the text area, a message is displayed about how many words are in this text.

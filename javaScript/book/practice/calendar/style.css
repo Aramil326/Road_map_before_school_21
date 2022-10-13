@@ -1,0 +1,33 @@
+#parent {
+  text-align: center;
+}
+
+#calendar {
+  display: inline-block;
+}
+
+#calendar td,
+#calendar th {
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+#calendar .nav,
+#calendar .info {
+  text-align: center;
+}
+
+#calendar a {
+  color: blue;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+#calendar a:hover {
+  color: red;
+}
+
+#calendar .active {
+  color: red;
+}

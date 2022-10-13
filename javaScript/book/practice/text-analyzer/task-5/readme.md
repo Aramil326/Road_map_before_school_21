@@ -1,0 +1,1 @@
+#### In the previous tasks, we made it so that 4 parameters are displayed for our text. Make 4 checkboxes that will control which parameters to show.

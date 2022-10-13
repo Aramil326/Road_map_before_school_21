@@ -1,0 +1,1 @@
+https://code.mu/ru/javascript/book/prime/multi/arrays-filling-order/

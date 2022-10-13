@@ -1,0 +1,48 @@
+body {
+  height: 100vh;
+}
+
+.calendar {
+  margin: auto;
+  width: 1000px;
+  height: 70vh;
+  padding: 50px;
+  border-radius: 80px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.all-days {
+  font-size: 26px;
+  width: 100%;
+  justify-content: space-around;
+  display: flex;
+  margin-bottom: 70px;
+}
+
+.wrapper {
+  margin: 0 auto;
+  margin-bottom: 70px;
+  height: 70px;
+  width: 300px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.control {
+  width: 200px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.left {
+  width: 75px
+}
+
+.right {
+  width: 75px
+}

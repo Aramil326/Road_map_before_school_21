@@ -1,0 +1,20 @@
+body {
+  background: rgba(0, 0, 0, 0.211);
+}
+
+.table {
+  width: 700px;
+  height: 700px;
+}
+
+.cell {
+  border: #000 2px solid;
+}
+
+.red-bd {
+  border: rgb(255, 0, 0) 2px solid;
+}
+
+.green-bd {
+  border: rgb(72, 255, 0) 2px solid;
+}

@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column
+}
+
+#input {
+  display: block;
+  margin-bottom: 15px;
+}
+
+#btn {
+  display: block;
+  margin-bottom: 15px;
+}

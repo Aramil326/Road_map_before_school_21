@@ -1,0 +1,1 @@
+#### Given 3 inputs. They enter numbers. Check that these numbers are a Pythagorean triple: the square of the largest number must be equal to the sum of the squares of the other two.

@@ -1,0 +1,6 @@
+{
+	"type": "module",
+	"dependencies": {
+		"formidable": "^1.2.2"
+	}
+}

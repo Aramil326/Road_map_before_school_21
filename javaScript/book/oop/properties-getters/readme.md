@@ -1,0 +1,1 @@
+https://code.mu/ru/javascript/book/oop/properties-getters/

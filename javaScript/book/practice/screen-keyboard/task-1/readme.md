@@ -1,0 +1,2 @@
+#### Implement the described keyboard. Let this keyboard be tied to some input, that is, by clicking on it, we will enter data into this input.
+#### Make a Caps Lock button on your keyboard, which will make all letters be converted to uppercase.

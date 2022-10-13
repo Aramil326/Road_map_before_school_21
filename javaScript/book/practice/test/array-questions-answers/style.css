@@ -1,0 +1,9 @@
+.right {
+  border: 2px solid green;
+  outline: none;
+}
+
+.wrong {
+  border: 2px solid red;
+  outline: none;
+}

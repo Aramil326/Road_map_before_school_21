@@ -1,0 +1,33 @@
+#parent {
+  height: 97vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: auto;
+  width: 250px;
+}
+
+#elem {
+  padding: 5px;
+  font-size: 18px;
+}
+
+#parent ul {
+  /* position: absolute; */
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  background-color: white;
+}
+
+#parent li {
+  border: 1px solid gray;
+  font-size: 18px;
+  padding: 5px;
+}
+
+#parent li:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}

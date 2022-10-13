@@ -1,0 +1,1 @@
+#### Given 2 inputs and a button. Numbers are entered into the inputs. On pressing the button, output the smallest number that is divisible by both one and the second of the entered numbers.

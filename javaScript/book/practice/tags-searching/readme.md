@@ -1,0 +1,1 @@
+#### Now we will register a site that will determine the value of the HTML tag. Let this script have an input where the user will enter the tag name. After that, pressing Enter under the input will give a description of this tag.

@@ -1,0 +1,1 @@
+#### Given 2 inputs and a button. Numbers are entered into the inputs. On pressing the button print the greatest common divisor of these two numbers.

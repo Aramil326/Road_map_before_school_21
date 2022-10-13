@@ -1,0 +1,44 @@
+body {
+  background: rgba(255, 255, 255, 0.211);
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+.table {
+  width: 700px;
+  height: 700px;
+}
+
+.cell {
+  border: #000 2px solid;
+}
+
+.red-bd {
+  border: rgb(255, 0, 0) 2px solid;
+}
+
+.green-bd {
+  border: rgb(72, 255, 0) 2px solid;
+}
+
+.start-game {
+  margin-left: 200px;
+  width: 200px;
+  height: 200px;
+  border: #000 6px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.start-game-text {
+  margin: 0;
+  text-align: center;
+}
+
+.start-game-clock {
+  font-size: 30px;
+}

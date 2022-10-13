@@ -1,0 +1,11 @@
+https://code.mu/ru/javascript/book/practice/calendar/task-formulation/
+https://code.mu/ru/javascript/book/practice/calendar/task-discussion/
+https://code.mu/ru/javascript/book/practice/calendar/numbers-array-filling/
+https://code.mu/ru/javascript/book/practice/calendar/month-week-days/
+https://code.mu/ru/javascript/book/practice/calendar/array-normalization/
+https://code.mu/ru/javascript/book/practice/calendar/chunking-array/
+https://code.mu/ru/javascript/book/practice/calendar/table-creating/
+https://code.mu/ru/javascript/book/practice/calendar/formation-function/
+https://code.mu/ru/javascript/book/practice/calendar/final-code/
+https://code.mu/ru/javascript/book/practice/calendar/month-and-year-showing/
+https://code.mu/ru/javascript/book/practice/calendar/month-changing-arrows/

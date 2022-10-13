@@ -1,0 +1,1 @@
+#### Now we will implement auto-completion. This term refers to a drop-down tooltip when entering text into an input. Let's look at an example. There is an input where you can enter the name of the country. At the same time, if you enter some letters, then a list of countries that begin with the entered string will appear under the input.

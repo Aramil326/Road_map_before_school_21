@@ -1,0 +1,1 @@
+#### Write a script that will find the roots of a quadratic equation. To do this, make 3 inputs into which the coefficients of the equation will be entered.

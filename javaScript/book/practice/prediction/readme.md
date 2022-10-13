@@ -1,0 +1,3 @@
+#### Now we will make a website that will issue predictions. Let there be a button on this site, by clicking on which a timer will be launched, which will display a random number from 1 to some maximum every 0.1 seconds in some div.
+
+#### Let there be another button under the div, by clicking on which the user of our site can stop the timer and fix a certain number in the div. This number will be the prediction number. After that, show the user a prediction with this number, and remove all unnecessary buttons from the screen so that the user cannot get another prediction. That is, one visit to the site - one prediction.
