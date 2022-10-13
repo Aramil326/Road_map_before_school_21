@@ -54,9 +54,9 @@
 ***
 ## [C](#c)
 
-## [CSS](#css)
-
 ## [HTML](#html)
+
+## [CSS](#css)
 
 ## [LESS](#less)
 
@@ -66,23 +66,6 @@
 
 ## [React](#react)
 ***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## C
 >[Bash, git](https://github.com/Aramil326/resume/tree/master/C-school21/T02D02-0-develop "T02D02")
@@ -115,7 +98,32 @@
 
 >[Консольная игра "Game of life"](https://github.com/Aramil326/resume/tree/master/C-school21/P02D13-0-develop "P02D13")
 
-Си изучался мною на вступительном интенсиве в школу 21. Ниже представлены директории проектов, которые я выполнял. Не все были успешными, результаты по проектам и статистика моего аккаунта показаны на картинке ниже:
+Си изучался мною на вступительном интенсиве в школу 21. Ниже представлены результаты по проектам и статистика моего аккаунта:
 
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/projects.jpg" width="400px" alt="project-statistics">
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/profile.jpg" width="400px" alt="profile">
+
+## HTML
+>Основы HTML
+>>[Основная структура страницы](https://code.mu/ru/markup/book/prime/html/page-structure/)
+>>[Основные теги](https://code.mu/ru/markup/book/prime/html/basic-tags/)
+>>[Списки](https://code.mu/ru/markup/book/prime/html/lists/)
+>>[Ссылки](https://code.mu/ru/markup/book/prime/html/links/)
+>>[Изображения](https://code.mu/ru/markup/book/prime/html/images/)
+>>[Таблицы](https://code.mu/ru/markup/book/prime/html/tables/)
+>>[Практикум](https://code.mu/ru/markup/book/prime/html/practicum/)
+
+>Формы
+>>[Основыние элементы формы](https://code.mu/ru/markup/book/supreme/form/basic-elements/)
+>>[Чекбоксы](https://code.mu/ru/markup/book/supreme/form/checkbox/)
+>>[Радио переключатель](https://code.mu/ru/markup/book/supreme/form/radio/)
+>>[Многострочные поля ввода](https://code.mu/ru/markup/book/supreme/form/textarea/)
+>>[Изменение размера textarea](https://code.mu/ru/markup/book/supreme/form/textarea-size/)
+>>[Подсказка placeholder](https://code.mu/ru/markup/book/supreme/form/placeholer/)
+>>[Выпадающие списки](https://code.mu/ru/markup/book/supreme/form/select/)
+>>[Блокировка элементов форм](https://code.mu/ru/markup/book/supreme/form/disabling/)
+>>[Подпись формы](https://code.mu/ru/markup/book/supreme/form/legend/)
+>>[Типы инпутов](https://code.mu/ru/markup/book/supreme/form/input-types/)
+>>[Фокус для элементов форм](https://code.mu/ru/markup/book/supreme/form/focus/)
+>>[Псевдоклассы для элементов форм](https://code.mu/ru/markup/book/supreme/form/pseudo/)
+>>[Автозаполнение полей](https://code.mu/ru/markup/book/supreme/form/autocomplete/)
