@@ -146,3 +146,318 @@
 
 >>[Автозаполнение полей](https://code.mu/ru/markup/book/supreme/form/autocomplete/)
 
+В разделе HTML ты найдешь только ссылки на источник, где я изучал информацию. Практических примеров тут нету.
+
+
+## CSS
+>### Основы CSS
+>>[Работа с цветом](https://code.mu/ru/markup/book/prime/css/colors/)
+
+>>[Ширина и высота](https://code.mu/ru/markup/book/prime/css/width-height/)
+
+>>[Выравнивание текста](https://code.mu/ru/markup/book/prime/css/text-alignment/)
+
+>>[Жирность](https://code.mu/ru/markup/book/prime/css/text-boldness/)
+
+>>[Курсив](https://code.mu/ru/markup/book/prime/css/text-italic/)
+
+>>[Размер шрифта](https://code.mu/ru/markup/book/prime/css/font-size/)
+
+>>[Семейство шрифта](https://code.mu/ru/markup/book/prime/css/font-family/)
+
+>>[Межстрочный интервал](https://code.mu/ru/markup/book/prime/css/line-height/)
+
+>>[Свойство-сокращение font](https://code.mu/ru/markup/book/prime/css/font-shorthand-property/)
+
+>>[Красная строка текста](https://code.mu/ru/markup/book/prime/css/first-line-indent/)
+
+>>[Эффекты текста](https://code.mu/ru/markup/book/prime/css/text-effects/)
+
+>>[Практикум](https://code.mu/ru/markup/book/prime/css/practicum/)
+
+>### Селекторы
+>>[Родственные связи селекторов](https://code.mu/ru/markup/book/prime/theory/tags-relationship/)
+
+>>[Наследование свойств](https://code.mu/ru/markup/book/prime/theory/propeties-inheritance/)
+
+>>[Группировка селекторов](https://code.mu/ru/markup/book/prime/theory/selectors-grouping/)
+
+>>[Селекторы потомков](https://code.mu/ru/markup/book/prime/theory/descendant-selector/)
+
+>>[Дочерний селектор](https://code.mu/ru/markup/book/prime/theory/child-selector/)
+
+>>[Селектор класса](https://code.mu/ru/markup/book/prime/theory/class-selector/)
+
+>>[Тег span](https://code.mu/ru/markup/book/prime/theory/tag-span/)
+
+>>[Тег div](https://code.mu/ru/markup/book/prime/theory/tag-div/)
+
+>>[Группировака классов](https://code.mu/ru/markup/book/prime/theory/classes-grouping/)
+
+>>[Тег с заданным классом](https://code.mu/ru/markup/book/prime/theory/tag-class-selector/)
+
+>>[Селектор потомков и классы](https://code.mu/ru/markup/book/prime/theory/descendant-selector-and-classes/)
+
+>>[Ошибка новичков](https://code.mu/ru/markup/book/prime/theory/descendant-selector-mistake/)
+
+>>[Элемент с несколькими классами](https://code.mu/ru/markup/book/prime/theory/several-classes-element/)
+
+>>[Селектор по id](https://code.mu/ru/markup/book/prime/theory/id-selector/)
+
+>>[Использование id](https://code.mu/ru/markup/book/prime/theory/using-id-selector/)
+
+>>[Селектор по нескольким классам](https://code.mu/ru/markup/book/prime/theory/several-classes-selector/)
+
+>>[Несколько селекторов слитно](https://code.mu/ru/markup/book/prime/theory/several-selectors-together/)
+
+>>[Группировка сложных селекторов](https://code.mu/ru/markup/book/prime/theory/complex-selectors-grouping/)
+
+>>[Тренировка на комбинации селекторов](https://code.mu/ru/markup/book/prime/theory/selectors-combination-training/)
+
+>>[Приоритет селекторов](https://code.mu/ru/markup/book/prime/theory/selectors-priority/)
+
+>>[Соседний селектор](https://code.mu/ru/markup/book/prime/theory/adjacent-sibling-selector/)
+
+>>[Родственный селектор](https://code.mu/ru/markup/book/prime/theory/general-sibling-selector/)
+
+>>[Универсальный селектор](https://code.mu/ru/markup/book/prime/theory/universal-selector/)
+
+>>[Селекторы атрибутов](https://code.mu/ru/markup/book/prime/theory/attribute-selector/)
+
+>>[Состояния ссылок](https://code.mu/ru/markup/book/prime/theory/link-states/)
+
+>>[Сложные селекторы со ссылками](https://code.mu/ru/markup/book/prime/theory/link-complex-selectors/)
+
+>>[Выборка по позиции элементов](https://code.mu/ru/markup/book/prime/theory/position-selector/)
+
+>>[Выборка по позиции и типу элементов](https://code.mu/ru/markup/book/prime/theory/position-type-selector/)
+
+>>[Отрицание not](https://code.mu/ru/markup/book/prime/theory/negation-selector/)
+
+>### Оформление
+>>[Фоновый цвет](https://code.mu/ru/markup/book/prime/decoration/background-filling/)
+
+>>[Основы работы с границами](https://code.mu/ru/markup/book/prime/decoration/border-styles/)
+
+>>[Свойство-сокращение для границы](https://code.mu/ru/markup/book/prime/decoration/border-shorthand-property/)
+
+>>[Границы для разных сторон](https://code.mu/ru/markup/book/prime/decoration/sides-borders/)
+
+>>[Скругление границ и фона](https://code.mu/ru/markup/book/prime/decoration/rounding/)
+
+>>[Скругление для разных углов](https://code.mu/ru/markup/book/prime/decoration/sides-rounding/)
+
+>>[Скругление в процентах](https://code.mu/ru/markup/book/prime/decoration/percentage-rounding/)
+
+>>[Фоновые картинки](https://code.mu/ru/markup/book/prime/decoration/background-images/)
+
+>>[Макеты списков ul](https://code.mu/ru/markup/book/prime/decoration/ul-markers/)
+
+>>[Макеты списков ol](https://code.mu/ru/markup/book/prime/decoration/ol-markers/)
+
+>### Блочная модель
+>>[Внешний отступ margin](https://code.mu/ru/markup/book/prime/block-model/margin/)
+
+>>[Отступы margin для разных сторон](https://code.mu/ru/markup/book/prime/block-model/margin-sides/)
+
+>>[Несколько значений в margin](https://code.mu/ru/markup/book/prime/block-model/margin-several-values/)
+
+>>[Внутренний отступ padding](https://code.mu/ru/markup/book/prime/block-model/padding/)
+
+>>[Отступы padding для разных сторон](https://code.mu/ru/markup/book/prime/block-model/padding-sides/)
+
+>>[Несколько значений в padding](https://code.mu/ru/markup/book/prime/block-model/padding-several-values/)
+
+>>[Расширение элементов](https://code.mu/ru/markup/book/prime/block-model/elements-expansion/)
+
+>>[Блочные элементы](https://code.mu/ru/markup/book/prime/block-model/block-elements/)
+
+>>[Строчные элементы](https://code.mu/ru/markup/book/prime/block-model/inline-elements/)
+
+>>[Определение блочной модели](https://code.mu/ru/markup/book/prime/block-model/elements-model/)
+
+>>[Свойство display](https://code.mu/ru/markup/book/prime/block-model/display-property/)
+
+>>[Строчно-блочные элементы](https://code.mu/ru/markup/book/prime/block-model/inline-block-elements/)
+
+>>[Выравнивание блочных элементов](https://code.mu/ru/markup/book/prime/block-model/block-alignment/)
+
+>>[Выравнивание строчных элементов](https://code.mu/ru/markup/book/prime/block-model/inline-alignment/)
+
+>>[Выравнивание строчно-блочных элементов](https://code.mu/ru/markup/book/prime/block-model/inline-block-alignment/)
+
+>>[Флекс элементы](https://code.mu/ru/markup/book/prime/block-model/flex-elements/)
+
+>>[Выравнивание флекс элементов](https://code.mu/ru/markup/book/prime/block-model/flex-alignment/)
+
+>### Позиционирование
+>>[Абсолютное](https://code.mu/ru/markup/book/prime/positioning/absolute/)
+
+>>[Отностиельное](https://code.mu/ru/markup/book/prime/positioning/relative/)
+
+>>[Абсолютно-относительно родителя](https://code.mu/ru/markup/book/prime/positioning/absolute-relativly-to-parent/)
+
+>>[Абсолютное относительно абсолюта](https://code.mu/ru/markup/book/prime/positioning/absolute-relativly-to-absolute/)
+
+>>[Абсолютное без координат](https://code.mu/ru/markup/book/prime/positioning/absolute-without-coordinates/)
+
+>>[Центрирование через absolute](https://code.mu/ru/markup/book/prime/positioning/centering-via-absolute/)
+
+>>[Отрицательные значение absolute](https://code.mu/ru/markup/book/prime/positioning/absolute-negative-values/)
+
+>>[Фиксированние позиционирование](https://code.mu/ru/markup/book/prime/positioning/fixed/)
+
+>>[Наложение элементов по оси Z](https://code.mu/ru/markup/book/prime/positioning/z-axis/)
+
+>### Флоаты
+>>[Введение в свойство float](https://code.mu/ru/markup/book/prime/float/intro/)
+
+>>[Свойство float и теги](https://code.mu/ru/markup/book/prime/float/penetration/)
+
+>>[Сочетание float и margin](https://code.mu/ru/markup/book/prime/float/margin-conjunction/)
+
+>>[Сочетание float и padding](https://code.mu/ru/markup/book/prime/float/padding-conjunction/)
+
+>>[Отступы плавающему элементу](https://code.mu/ru/markup/book/prime/float/element-indents/)
+
+>>[Плавающие элементы под тегами](https://code.mu/ru/markup/book/prime/float/under-elements/)
+
+>>[Действие флоатов на родителя](https://code.mu/ru/markup/book/prime/float/parent-effect/)
+
+>>[Отмена обтекания](https://code.mu/ru/markup/book/prime/float/clearing/)
+
+>>[Высота родителя и клиарфикс](https://code.mu/ru/markup/book/prime/float/parent-height-and-clearfix/)
+
+>>[Свойство float для блоков](https://code.mu/ru/markup/book/prime/float/blocks-floating/)
+
+>>[Свойство float и несколько блоков](https://code.mu/ru/markup/book/prime/float/several-blocks/)
+
+>>[Свойство float и родитель без текста](https://code.mu/ru/markup/book/prime/float/parent-without-text/)
+
+>### Флексы
+>>[Размещение в ряд или колонку ](https://code.mu/ru/markup/book/prime/flexbox/direction/)
+
+>>[Главная и поперечная оси](https://code.mu/ru/markup/book/prime/flexbox/axes/)
+
+>>[Выравнивание по главной оси](https://code.mu/ru/markup/book/prime/flexbox/main-axis-alignment/)
+
+>>[Выравнивание по поперечной оси](https://code.mu/ru/markup/book/prime/flexbox/cross-axis-alignment/)
+
+>>[Значение center свойства align-items](https://code.mu/ru/markup/book/prime/flexbox/cross-axis-center/)
+
+>>[Практика на выравнивание по осям](https://code.mu/ru/markup/book/prime/flexbox/practicum/)
+
+>>[Выравнивание отдельного элемента](https://code.mu/ru/markup/book/prime/flexbox/element-alignment/)
+
+>>[Порядок flex блоков](https://code.mu/ru/markup/book/prime/flexbox/blocks-order/)
+
+>### Продвинутое
+>>[Продвинутые свойства для текста](https://code.mu/ru/markup/book/supreme/basis/text-props/)
+
+>>[Оформление вывода текста](https://code.mu/ru/markup/book/supreme/basis/output-formatting/)
+
+>>[Оформление переполнения блоков](https://code.mu/ru/markup/book/supreme/basis/block-overflow-formatting/)
+
+>>[Эффекты текста](https://code.mu/ru/markup/book/supreme/basis/text-effects/)
+
+>>[Размещение текста в колонках](https://code.mu/ru/markup/book/supreme/basis/text-columns/)
+
+>>[Указатель и выделение](https://code.mu/ru/markup/book/supreme/basis/pointer-selection/)
+
+>>[Работа с таблицами](https://code.mu/ru/markup/book/supreme/basis/table-props/)
+
+>>[Вставка псевдоэлементов](https://code.mu/ru/markup/book/supreme/basis/pseudo-elements-insertion/)
+
+>>[Функции расчета в CSS](https://code.mu/ru/markup/book/supreme/basis/calculation-functions/)
+
+>### Графика
+>>[Цвет в rgb формате](https://code.mu/ru/markup/book/supreme/graphic/color/rgb/)
+
+>>[Цвет в hex формате](https://code.mu/ru/markup/book/supreme/graphic/color/hex/)
+
+>>[Цвет в rgba формате](https://code.mu/ru/markup/book/supreme/graphic/color/rgba/)
+
+>>[Полупрозрачность opacity](https://code.mu/ru/markup/book/supreme/graphic/color/opacity/)
+
+>>[Тень текста](https://code.mu/ru/markup/book/supreme/graphic/shadow/text/)
+
+>>[Тень блока](https://code.mu/ru/markup/book/supreme/graphic/shadow/block/)
+
+>>[Линейный градиент](https://code.mu/ru/markup/book/supreme/graphic/gradient/linear/)
+
+>>[Радиальный градиент](https://code.mu/ru/markup/book/supreme/graphic/gradient/radial/)
+
+>>[Повторяющийся линейный градиент](https://code.mu/ru/markup/book/supreme/graphic/gradient/repeating-linear/)
+
+>>[Повторяющийся радиальный градиент](https://code.mu/ru/markup/book/supreme/graphic/gradient/repeating-radial/)
+
+>### Эффекты
+>>[Плавные переходы](https://code.mu/ru/markup/book/supreme/effects/transition/)
+
+>>[Анимация](https://code.mu/ru/markup/book/supreme/effects/animation/)
+
+>>[Основные трансформации](https://code.mu/ru/markup/book/supreme/effects/transform/)
+
+>>[Точка преобразования](https://code.mu/ru/markup/book/supreme/effects/transform-origin/)
+
+>>[Применение эффектов](https://code.mu/ru/markup/book/supreme/effects/applying/)
+
+>### Кроссбраузерность
+>>[Введение в кроссбраузерность](https://code.mu/ru/markup/book/supreme/cross-browser-compatibility/intro/)
+
+>>[Вендорные префиксы](https://code.mu/ru/markup/book/supreme/cross-browser-compatibility/vendor-prefixes/)
+
+>>[Проверка поддержки](https://code.mu/ru/markup/book/supreme/cross-browser-compatibility/support/)
+
+>>[Сброс и нормализация стилей](https://code.mu/ru/markup/book/supreme/cross-browser-compatibility/reset/)
+
+>### Единицы размеров
+>>[Введение в единицы em](https://code.mu/ru/markup/book/supreme/units/em/)
+
+>>[Наследование и единицы em](https://code.mu/ru/markup/book/supreme/units/inheritance-em/)
+
+>>[Отступы и единицы em](https://code.mu/ru/markup/book/supreme/units/indentation-em/)
+
+>>[Практики использования em](https://code.mu/ru/markup/book/supreme/units/best-practice-em/)
+
+>>[Единицы rem](https://code.mu/ru/markup/book/supreme/units/rem/)
+
+>>[Единицы vh и vw](https://code.mu/ru/markup/book/supreme/units/vh-vw/)
+
+>### Продвинутая работы с флексбоксами
+>>[Размер флекс элемента вдоль главной оси](https://code.mu/ru/markup/book/supreme/flexbox/element-size/)
+
+>>[Жадность флекс элементов](https://code.mu/ru/markup/book/supreme/flexbox/greediness/)
+
+>>[Нулевая жадность флекс элементов](https://code.mu/ru/markup/book/supreme/flexbox/zero-greediness/)
+
+>>[Жадность и ширина flex блоков](https://code.mu/ru/markup/book/supreme/flexbox/width-greediness/)
+
+>>[Сжатие флекс элементов при недостатке места](https://code.mu/ru/markup/book/supreme/flexbox/shrinkage/)
+
+>>[Фактор сжимаемости флекс блоков](https://code.mu/ru/markup/book/supreme/flexbox/shrink-factor/)
+
+>>[Свойство-сокращение flex](https://code.mu/ru/markup/book/supreme/flexbox/flex-property/)
+
+>>[Проблемы плиточки на флексах](https://code.mu/ru/markup/book/supreme/flexbox/flex-tiles-problems/)
+
+>>[Плиточка с корректными отступами](https://code.mu/ru/markup/book/supreme/flexbox/tiles-correct-gaps/)
+
+>>[Плиточка с автошириной блоков](https://code.mu/ru/markup/book/supreme/flexbox/tiles-auto-width/)
+
+>>[Отступы в плиточке с автошириной блоков](https://code.mu/ru/markup/book/supreme/flexbox/gaps-tiles-auto-width/)
+
+>### Адаптивная верстка
+>>[Введение](https://code.mu/ru/markup/book/supreme/responsive/intro/)
+
+>>[Введение в медиазапросы](https://code.mu/ru/markup/book/supreme/responsive/mediaqueries/)
+
+>>[Перестроение блоков](https://code.mu/ru/markup/book/supreme/responsive/blocks-rebuilding/)
+
+>>[Плиточка без отступов](https://code.mu/ru/markup/book/supreme/responsive/tiles/)
+
+>>[Плиточка с отступами](https://code.mu/ru/markup/book/supreme/responsive/tiles-gap/)
+
+>>[Размеры шрифтов](https://code.mu/ru/markup/book/supreme/responsive/font-sizes/)
+<!-- >>[]() -->
+
