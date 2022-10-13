@@ -52,19 +52,19 @@
 
 # Карта моих проектов:
 ***
-[C](##C)
+[C](#c)
 
-[CSS](##CSS)
+[CSS](#css)
 
-[HTML](##HTML)
+[HTML](#html)
 
-[LESS](##LESS)
+[LESS](#less)
 
-[БЭМ](##БЭМ)
+[БЭМ](#бэм)
 
-[JavaScript](##JavaScript)
+[JavaScript](#javascript)
 
-[React](##React)
+[React](#react)
 ***
 
 
