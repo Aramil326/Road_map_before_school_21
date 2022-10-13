@@ -1416,6 +1416,255 @@
 
 
 >### JavaScript, но сложнее
+>>Регулярные выражения
+>>>Введение. [Задание](https://code.mu/ru/javascript/book/supreme/regular/intro/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/intro)
+
+>>>Операторы повторения. [Задание](https://code.mu/ru/javascript/book/supreme/regular/repeat-operators/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/repeat-operators)
+
+>>>Группирующие скобки. [Задание](https://code.mu/ru/javascript/book/supreme/regular/grouping-brackets/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/grouping-brackets)
+
+>>>Экранировка спецсимволов. [Задание](https://code.mu/ru/javascript/book/supreme/regular/escaping-special-characters/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/escaping-special-characters)
+
+>>>Фигурные скобки. [Задание](https://code.mu/ru/javascript/book/supreme/regular/curly-braces/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/curly-braces)
+
+>>>Ограничение жадности. [Задание](https://code.mu/ru/javascript/book/supreme/regular/greediness-limitation/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/greediness-limitation)
+
+>>>Группы символов. [Задание](https://code.mu/ru/javascript/book/supreme/regular/characters-groups/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/characters-groups)
+
+>>>Наборы символов. [Задание](https://code.mu/ru/javascript/book/supreme/regular/characters-sets/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/characters-sets)
+
+>>>Инвертирование наборов символов. [Задание](https://code.mu/ru/javascript/book/supreme/regular/characters-sets-invertion/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/characters-sets-invertion)
+
+>>>Особенности кириллицы. [Задание](https://code.mu/ru/javascript/book/supreme/regular/cyrillic-features/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/cyrillic-features)
+
+>>>Спецсимволы внутри []. [Задание](https://code.mu/ru/javascript/book/supreme/regular/special-characters-inside-square-brackets/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/special-characters-inside-square-brackets)
+
+>>>Группы символов внутри []. [Задание](https://code.mu/ru/javascript/book/supreme/regular/characters-groups-inside-square-brackets/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/characters-groups-inside-square-brackets)
+
+>>>[Спецсимволы-исключения внутри []](https://code.mu/ru/javascript/book/supreme/regular/special-characters-exclusion-inside-square-brackets/)
+
+>>>Символ шляпки внутри []. [Задание](https://code.mu/ru/javascript/book/supreme/regular/hat-symbol-inside-square-brackets/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/hat-symbol-inside-square-brackets)
+
+>>>[Особенности дефиса внутри []](https://code.mu/ru/javascript/book/supreme/regular/hyphen-inside-square-brackets-features/)
+
+>>>[Начало и конец строки](https://code.mu/ru/javascript/book/supreme/regular/line-beginning-and-end/)
+
+>>>[Команда "или"](https://code.mu/ru/javascript/book/supreme/regular/or-command/)
+
+>>>Метод test. [Задание](https://code.mu/ru/javascript/book/supreme/regular/method-test/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/regular/method-test)
+
+>>>[Метод match с модификатором g](https://code.mu/ru/javascript/book/supreme/regular/method-match-with-g-modifier/)
+
+>>>[Карманы в методе match](https://code.mu/ru/javascript/book/supreme/regular/match-pockets/)
+
+>>>[Карманы в методе replace](https://code.mu/ru/javascript/book/supreme/regular/replace-pockets/)
+
+>>>[Карманы по умолчанию в методе replace](https://code.mu/ru/javascript/book/supreme/regular/replace-default-pockets/)
+
+>>>[Карманы в самой регулярке](https://code.mu/ru/javascript/book/supreme/regular/expression-pockets/)
+
+>>>[Несохраняющие скобки](https://code.mu/ru/javascript/book/supreme/regular/non-preserving-brackets/)
+
+>>>[Позитивный и негативный просмотр](https://code.mu/ru/javascript/book/supreme/regular/positive-and-negative-viewing/)
+
+>>>[Коллбэк в методе replase](https://code.mu/ru/javascript/book/supreme/regular/replace-method-callback/)
+
+>>>[Метод search](https://code.mu/ru/javascript/book/supreme/regular/method-search/)
+
+>>>[Метод split](https://code.mu/ru/javascript/book/supreme/regular/method-split/)
+
+>>>[Головоломки](https://code.mu/ru/javascript/book/supreme/regular/puzzles/)
+
+>>Коллекции
+>>>[Псевдомассивы](https://code.mu/ru/javascript/book/supreme/collections/pseudoarrays/intro/)
+
+>>>[Преобразование псевдомассивов](https://code.mu/ru/javascript/book/supreme/collections/pseudoarrays/convertion/)
+
+>>>[Типы псевдомассивов](https://code.mu/ru/javascript/book/supreme/collections/pseudoarrays/types/)
+
+>>>[Коллекции Map](https://code.mu/ru/javascript/book/supreme/collections/map/intro/)
+
+>>>[Полезные свойства и методы коллекций Map](https://code.mu/ru/javascript/book/supreme/collections/map/methods-properties/)
+
+>>>[Перебор коллекций Map циклом](https://code.mu/ru/javascript/book/supreme/collections/map/loop/)
+
+>>>[Отделение ключей и значений в коллекциях Map](https://code.mu/ru/javascript/book/supreme/collections/map/keys-values/)
+
+>>>[Применение коллекций Map](https://code.mu/ru/javascript/book/supreme/collections/map/applying/)
+
+>>>[Коллекции Set](https://code.mu/ru/javascript/book/supreme/collections/set/intro/)
+
+>>>[Полезные свойства и метода коллекций Set](https://code.mu/ru/javascript/book/supreme/collections/set/methods-properties/)
+
+>>>[Перебор коллекций Set циклом](https://code.mu/ru/javascript/book/supreme/collections/set/loop/)
+
+>>>[Преобразование коллекций Set](https://code.mu/ru/javascript/book/supreme/collections/set/convertion/)
+
+>>>[Удаление дублей с помощью коллекций Set](https://code.mu/ru/javascript/book/supreme/collections/set/removing-duplicates/)
+
+>>>[Буферы](https://code.mu/ru/javascript/book/supreme/collections/binary/buffers/)
+
+>>>[Итераторы](https://code.mu/ru/javascript/book/supreme/collections/iterators/)
+
+>>>[Введение в формат JSON](https://code.mu/ru/javascript/book/supreme/collections/json/intro/)
+
+>>>[Преобразование JSON в структуру данных](https://code.mu/ru/javascript/book/supreme/collections/json/to-structure/)
+
+>>>[Преобразование структур данных в формат JSON](https://code.mu/ru/javascript/book/supreme/collections/json/from-structure/)
+
+>>>[Изменение данных в JSON](https://code.mu/ru/javascript/book/supreme/collections/json/data-changing/)
+
+
+>>Хранилища
+>>>[Основы работы](https://code.mu/ru/javascript/book/supreme/storage/localStorage/basis/)
+
+>>>[Массивы и объекты](https://code.mu/ru/javascript/book/supreme/storage/localStorage/arrays-and-objects/)
+
+
+>>Исключительные ситуации
+>>>Работа с try catch. [Задание](https://code.mu/ru/javascript/book/supreme/exceptions/try-catch/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/exceptions/try-catch)
+
+>>>[Объект Error](https://code.mu/ru/javascript/book/supreme/exceptions/error-object/)
+
+>>>[Выбрасывание исключений](https://code.mu/ru/javascript/book/supreme/exceptions/throwing/)
+
+>>Инструменты
+>>>[Терминал](https://code.mu/ru/javascript/book/supreme/tool/terminal/)
+
+>>>[Node.js](https://code.mu/ru/javascript/book/supreme/tool/nodejs/)
+
+>>>[Пакетные менеджеры](https://code.mu/ru/javascript/book/supreme/tool/pm/)
+
+>>>[Сборщик файлов](https://code.mu/ru/javascript/book/supreme/tool/builder/)
+
+>>>[Тестовый HTTP сервер](https://code.mu/ru/javascript/book/supreme/tool/test-http-server/)
+
+>>>[Модули](https://code.mu/ru/javascript/book/supreme/tool/modules/)
+
+
+>>Модули CommonJS. [Тык, тут я работал с модулями CommonJS](https://github.com/Aramil326/javaScript/tree/master/book/supreme/modules/commonjs)
+>>>[Введение в модули CommonJS](https://code.mu/ru/javascript/book/supreme/modules/commonjs/intro/)
+
+>>>[Экспорт одного значения из модуля CommonJS](https://code.mu/ru/javascript/book/supreme/modules/commonjs/single-value-export/)
+
+>>>[Сокращенный синтаксис экспорта в модулях CommonJS](https://code.mu/ru/javascript/book/supreme/modules/commonjs/shorthand-export-syntax/)
+
+>>>[Передача параметров в модули CommonJS](https://code.mu/ru/javascript/book/supreme/modules/commonjs/passing-parameters/)
+
+>>>[Подключение npm модулей в CommonJS](https://code.mu/ru/javascript/book/supreme/modules/commonjs/import-npm-modules/)
+
+
+>>Модули ES. [Тык, тут я работал с модулями ES](https://github.com/Aramil326/javaScript/tree/master/book/supreme/modules/es)
+>>>[Подготовка к модулям ES](https://code.mu/ru/javascript/book/supreme/modules/es/preparation/)
+
+>>>[Введение в модули ES](https://code.mu/ru/javascript/book/supreme/modules/es/intro/)
+
+>>>[Экспорт значения из модуля ES](https://code.mu/ru/javascript/book/supreme/modules/es/single-value-export/)
+
+>>>[Передача параметров в модули ES](https://code.mu/ru/javascript/book/supreme/modules/es/passing-parameters/)
+
+>>>[Подключение npm модулей в ES](https://code.mu/ru/javascript/book/supreme/modules/es/import-npm-modules/)
+
+
+>>Сборщик GULP. [Тык, тут я работал с GULP](https://github.com/Aramil326/javaScript/tree/master/book/supreme/tool/gulp)
+>>>[Введение](https://code.mu/ru/javascript/book/supreme/tool/gulp/intro/)
+
+>>>[Создание задач](https://code.mu/ru/javascript/book/supreme/tool/gulp/tasks-creation/)
+
+>>>[Публичные задачи](https://code.mu/ru/javascript/book/supreme/tool/gulp/public-tasks/)
+
+>>>[Приватные задачи](https://code.mu/ru/javascript/book/supreme/tool/gulp/private-tasks/)
+
+>>>[Асинхронность задач](https://code.mu/ru/javascript/book/supreme/tool/gulp/tasks-asynchrony/)
+
+>>>[Композиции задач](https://code.mu/ru/javascript/book/supreme/tool/gulp/tasks-composition/)
+
+>>>[Работа с файлами](https://code.mu/ru/javascript/book/supreme/tool/gulp/files/)
+
+>>>[Минимизация файлов](https://code.mu/ru/javascript/book/supreme/tool/gulp/files-minimization/)
+
+>>>[Препроцессоры css](https://code.mu/ru/javascript/book/supreme/tool/gulp/preprocessors/)
+
+>>>[Поток операций](https://code.mu/ru/javascript/book/supreme/tool/gulp/operations-pipe/)
+
+>>>[Переименование файлов](https://code.mu/ru/javascript/book/supreme/tool/gulp/files-renaming/)
+
+>>>[Объединение файлов](https://code.mu/ru/javascript/book/supreme/tool/gulp/files-merging/)
+
+>>>[Очистка папки](https://code.mu/ru/javascript/book/supreme/tool/gulp/dir-clearing/)
+
+>>>[Наблюдения за файлами](https://code.mu/ru/javascript/book/supreme/tool/gulp/file-watching/)
+
+
+>>Формы и сервер
+>>>[Отправка форм](https://code.mu/ru/javascript/book/supreme/form/submit/)
+
+>>>[Отправка форм методом GET](https://code.mu/ru/javascript/book/supreme/form/method-get/)
+
+>>>[Отправка форм методом POST](https://code.mu/ru/javascript/book/supreme/form/method-post/)
+
+>>>[GET запросы](https://code.mu/ru/javascript/book/supreme/form/get-queries/)
+
+>>>[Способы отправки форм](https://code.mu/ru/javascript/book/supreme/form/submitting-ways/)
+
+>>>[Запрет отправки формы](https://code.mu/ru/javascript/book/supreme/form/submitting-preventing/)
+
+>>>[URLSearchParams](https://code.mu/ru/javascript/book/supreme/form/URLSearchParams/)
+
+>>>[FormData](https://code.mu/ru/javascript/book/supreme/form/FormData/)
+
+>>>[URL](https://code.mu/ru/javascript/book/supreme/form/URL/)
+
+
+>>Асинхронность
+>>>[Синхронный и асинхронный код](https://code.mu/ru/javascript/book/supreme/asynchrony/code/)
+
+>>>Асинхронный код с коллбэками. [Задание](https://code.mu/ru/javascript/book/supreme/asynchrony/callbacks/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/asynchrony/callbacks)
+
+>>>Асинхронный код через подписки. [Задание](https://code.mu/ru/javascript/book/supreme/asynchrony/subscriptions/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/asynchrony/subscriptions)
+
+>>>Введение в промисы. [Задание](https://code.mu/ru/javascript/book/supreme/asynchrony/promise/intro/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/asynchrony/promise/intro)
+
+>>>[Цепочки промисов](https://code.mu/ru/javascript/book/supreme/asynchrony/promise/chaining/)
+
+>>>[Работа с массивами промисов](https://code.mu/ru/javascript/book/supreme/asynchrony/promise/arrays/)
+
+>>>[Создание сработавших промисов](https://code.mu/ru/javascript/book/supreme/asynchrony/promise/fulfilled-creation/)
+
+>>>[Промисификация асинхронного кода](https://code.mu/ru/javascript/book/supreme/asynchrony/promise/promisification/)
+
+>>>[Проблема promise hell](https://code.mu/ru/javascript/book/supreme/asynchrony/promise/promise-hell/)
+
+>>>[Промисы в синхронном стиле](https://code.mu/ru/javascript/book/supreme/asynchrony/promise/sync-style/)
+
+
+>>AJAX
+>>>Введение в AJAX. [Задание](https://code.mu/ru/javascript/book/supreme/ajax/intro/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/asynchrony/ajax/intro)
+
+>>>[Работа с fetch](https://code.mu/ru/javascript/book/supreme/ajax/fetch/)
+
+>>>[Передача GET параметров в запросе](https://code.mu/ru/javascript/book/supreme/ajax/passing-get-parameters/)
+
+>>>[Отправка форм методом GET](https://code.mu/ru/javascript/book/supreme/ajax/form-get-submitting/)
+
+>>>[Отправка данных методом POST](https://code.mu/ru/javascript/book/supreme/ajax/data-post-submitting/)
+
+
+>>Работа с канвас
+>>>[Начало работы](https://code.mu/ru/javascript/book/supreme/canvas/intro/)
+
+>>>Рисование линий. [Задание](https://code.mu/ru/javascript/book/supreme/canvas/line/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/canvas/line)
+
+>>>Рисование прямоугольников. [Задание](https://code.mu/ru/javascript/book/supreme/canvas/rectangle/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/canvas/rectangle)
+
+>>>Рисование окружностей. [Задание](https://code.mu/ru/javascript/book/supreme/canvas/circle/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/canvas/circle)
+
+>>>Смена цвета линии. [Задание](https://code.mu/ru/javascript/book/supreme/canvas/line-color/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/canvas/line-color)
+
+>>>[Смена размера линий](https://code.mu/ru/javascript/book/supreme/canvas/line-width/)
+
+>>>Циклы. [Задание](https://code.mu/ru/javascript/book/supreme/canvas/loops/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/supreme/canvas/loops)
+
 
 >### ООП JS
 
