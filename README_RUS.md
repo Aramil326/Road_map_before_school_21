@@ -53,31 +53,31 @@
 # Карта моих проектов:
 ## C
 >[Bash, git](https://github.com/Aramil326/resume/tree/master/C-school21/T02D02-0-develop)
-***
+
 >[Базовые операции на языке C, такие как ввод, вывод и арифметика](https://github.com/Aramil326/resume/tree/master/C-school21/T03D03-0-develop)
-***
+
 >[Основные структуры управления на языке C, интерактивные и рекурсивные алгоритмы](https://github.com/Aramil326/resume/tree/master/C-school21/T04D04-0-develop)
-***
+
 >[Указатели](https://github.com/Aramil326/resume/tree/master/C-school21/T05D08-0-develop)
-***
+
 >[Массивы и алгоритмы их обработки](https://github.com/Aramil326/resume/tree/master/C-school21/T06D09-0-develop)
-***
+
 >[Динамическое распределение памяти, матрицы (или многомерные массивы) и алгоритмы их обработки](https://github.com/Aramil326/resume/tree/master/C-school21/T07D10-0-develop)
-***
+
 >[Матрицы и алгоритмы их обработки](https://github.com/Aramil326/resume/tree/master/C-school21/T08D11-0-develop)
-***
+
 >[Многофайловые проекты](https://github.com/Aramil326/resume/tree/master/C-school21/T09D15-0-develop)
-***
+
 >[Символы и строки](https://github.com/Aramil326/resume/tree/master/C-school21/T10D16-0-develop)
-***
+
 >[Структуры и объединения в C](https://github.com/Aramil326/resume/tree/master/C-school21/T11D17-0-develop)
-***
+
 >[Обратные вызовы, переменные списки аргументов и динамические структуры](https://github.com/Aramil326/resume/tree/master/C-school21/T12D18-0-develop)
-***
+
 >[Обработка текстовых файлов](https://github.com/Aramil326/resume/tree/master/C-school21/T13D22-0-develop)
-***
+
 >[Обработка двоичных файлов](https://github.com/Aramil326/resume/tree/master/C-school21/T14D23-0-develop)
-***
+
 >[Консольная игра "Pong"](https://github.com/Aramil326/resume/tree/master/C-school21/P01D06-0-develop)
-***
+
 >[Консольная игра "Game of life"](https://github.com/Aramil326/resume/tree/master/C-school21/P02D13-0-develop)
