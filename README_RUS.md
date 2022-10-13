@@ -697,15 +697,15 @@
 
 >>>[Вывод в документ](https://code.mu/ru/javascript/book/prime/basis/document-write/)
 
->>>### Практика на поиск ошибок. [Задание](https://code.mu/ru/javascript/book/prime/basis/mistakes/). [Решение](https://github.com/Aramil326/javaScript/commit/ed68a4b00e53926a823bf10bb811d84a17029da5)
+>>> Практика на поиск ошибок. [Задание](https://code.mu/ru/javascript/book/prime/basis/mistakes/). [Решение](https://github.com/Aramil326/javaScript/commit/ed68a4b00e53926a823bf10bb811d84a17029da5)
 
+>>>Практика на операции. [Задание](https://code.mu/ru/javascript/book/prime/basis/practicum/operations/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/basis/practicum/operations)
 
-
->>>[]()
-
->>>[]()
+>>>Практика на формулы. [Задание](https://code.mu/ru/javascript/book/prime/basis/practicum/formulas/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/basis/practicum/formulars)
 
 >>Массивы
+>>>[]()
+
 
 >>Объекты
 
