@@ -697,7 +697,7 @@
 
 >>>[Вывод в документ](https://code.mu/ru/javascript/book/prime/basis/document-write/)
 
->>>#### Практика на поиск ошибок. [Теория](https://code.mu/ru/javascript/book/prime/basis/mistakes/). [Практика](https://github.com/Aramil326/javaScript/commit/ed68a4b00e53926a823bf10bb811d84a17029da5)
+>>>### Практика на поиск ошибок. [Задание](https://code.mu/ru/javascript/book/prime/basis/mistakes/). [Решение](https://github.com/Aramil326/javaScript/commit/ed68a4b00e53926a823bf10bb811d84a17029da5)
 
 
 
