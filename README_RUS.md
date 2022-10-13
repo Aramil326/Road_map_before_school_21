@@ -56,7 +56,7 @@
 
 ## [HTML](https://github.com/Aramil326/resume/blob/master/README_RUS.md#html-1)
 
-## [CSS](#css)
+## [CSS](https://github.com/Aramil326/resume/blob/master/README_RUS.md#css-1)
 
 ## [LESS](#less)
 
