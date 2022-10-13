@@ -52,9 +52,9 @@
 
 # Карта моих проектов:
 ## C
->[Bash, git](https://github.com/Aramil326/resume/tree/master/C-school21/T02D02-0-develop)
->[Базовые операции на языке C, такие как ввод, вывод и арифметика](https://github.com/Aramil326/resume/tree/master/C-school21/T03D03-0-develop)
->[Основные структуры управления на языке C, интерактивные и рекурсивные алгоритмы](https://github.com/Aramil326/resume/tree/master/C-school21/T04D04-0-develop)
+>[Bash, git](https://github.com/Aramil326/resume/tree/master/C-school21/T02D02-0-develop).
+>[Базовые операции на языке C, такие как ввод, вывод и арифметика](https://github.com/Aramil326/resume/tree/master/C-school21/T03D03-0-develop).
+>[Основные структуры управления на языке C, интерактивные и рекурсивные алгоритмы](https://github.com/Aramil326/resume/tree/master/C-school21/T04D04-0-develop).
 >[пример]()
 >[пример]()
 >[пример]()
