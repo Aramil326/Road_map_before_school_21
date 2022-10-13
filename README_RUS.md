@@ -60,7 +60,7 @@
 
 ## [LESS](https://github.com/Aramil326/resume/blob/master/README_RUS.md#less-1)
 
-## [БЭМ](#бэм)
+## [БЭМ](https://github.com/Aramil326/resume/blob/master/README_RUS.md#%D0%B1%D1%8D%D0%BC-1)
 
 ## [JavaScript](#javascript)
 
