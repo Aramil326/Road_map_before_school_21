@@ -83,5 +83,6 @@
 >[Консольная игра "Game of life"](https://github.com/Aramil326/resume/tree/master/C-school21/P02D13-0-develop "P02D13")
 
 Си изучался мною на вступительном интенсиве в школу 21. Ниже представлены директории проектов, которые я выполнял. Не все были успешными, результаты по проектам и статистика моего аккаунта показаны на картинке ниже:
+
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/projects.jpg" width="400px" alt="project-statistics">
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/profile.jpg" width="400px" alt="profile">
