@@ -62,7 +62,7 @@
 
 ## [БЭМ](https://github.com/Aramil326/resume/blob/master/README_RUS.md#%D0%B1%D1%8D%D0%BC-1)
 
-## [JavaScript](#javascript)
+## [JavaScript](https://github.com/Aramil326/resume/blob/master/README_RUS.md#javascript-1)
 
 ## [React](#react)
 ***
@@ -703,29 +703,387 @@
 
 >>>Практика на формулы. [Задание](https://code.mu/ru/javascript/book/prime/basis/practicum/formulas/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/basis/practicum/formulars)
 
+
 >>Массивы
->>>[]()
+>>>[Введение в массивы](https://code.mu/ru/javascript/book/prime/arrays/intro/)
+
+>>>[Получение элементов](https://code.mu/ru/javascript/book/prime/arrays/elements-getting/)
+
+>>>[Длина массива](https://code.mu/ru/javascript/book/prime/arrays/length/)
+
+>>>[Изменение элементов](https://code.mu/ru/javascript/book/prime/arrays/elements-changing/)
+
+>>>[Добавление элементов по ключам](https://code.mu/ru/javascript/book/prime/arrays/elements-keys-adding/)
+
+>>>[Разреженные массивы](https://code.mu/ru/javascript/book/prime/arrays/sparse-arrays/)
+
+>>>[Добавление элементов через push](https://code.mu/ru/javascript/book/prime/arrays/elements-push-adding/)
+
+>>>[Ключи из переменных](https://code.mu/ru/javascript/book/prime/arrays/vars-keys/)
+
+>>>[Оператор delete](https://code.mu/ru/javascript/book/prime/arrays/operator-delete/)
+
+>>>Практика на поиск ошибок. [Задание](https://code.mu/ru/javascript/book/prime/arrays/mistakes/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/arrays/mistakes)
 
 
 >>Объекты
+>>>[Введение в объекты](https://code.mu/ru/javascript/book/prime/objects/intro/)
+
+>>>[Вывод всего объекта](https://code.mu/ru/javascript/book/prime/objects/entire-object-display/)
+
+>>>[Строковые ключи объектов](https://code.mu/ru/javascript/book/prime/objects/string-keys/)
+
+>>>[Свойства объектов](https://code.mu/ru/javascript/book/prime/objects/properties/)
+
+>>>[Ограничения на ключи объектов](https://code.mu/ru/javascript/book/prime/objects/keys-restrictions/)
+
+>>>[Изменение элементов](https://code.mu/ru/javascript/book/prime/objects/elements-changing/)
+
+>>>[Добавление элементов](https://code.mu/ru/javascript/book/prime/objects/elements-adding/)
+
+>>>[Неупорядоченность объетов](https://code.mu/ru/javascript/book/prime/objects/disorder/)
+
+>>>[Массив ключей объекта](https://code.mu/ru/javascript/book/prime/objects/keys-array/)
+
+>>>[Длина объекта](https://code.mu/ru/javascript/book/prime/objects/length/)
+
+>>>[Ключи из переменных](https://code.mu/ru/javascript/book/prime/objects/vars-keys/)
+
+>>>[Ошибка обращения к элементу](https://code.mu/ru/javascript/book/prime/objects/element-var-mistake/)
+
+>>>[Ошибка обращения к свойству](https://code.mu/ru/javascript/book/prime/objects/property-var-mistake/)
+
+>>>[Вычисляемые всойства](https://code.mu/ru/javascript/book/prime/objects/computed-properties/)
+
+>>>[Оператор in](https://code.mu/ru/javascript/book/prime/objects/operator-in/)
+
+>>>[Оператор delete](https://code.mu/ru/javascript/book/prime/objects/operator-delete/)
+
+>>>[Типизация объектов](https://code.mu/ru/javascript/book/prime/objects/typing/)
+
+>>>[Массивы как объекты](https://code.mu/ru/javascript/book/prime/objects/arrays-as-objects/)
+
+>>>[Отличаем массивы от объектов](https://code.mu/ru/javascript/book/prime/objects/differ-arrays-objects/)
+
+>>>[Объекты и примитивы](https://code.mu/ru/javascript/book/prime/objects/objects-primitives/)
+
+>>>[Передача объектов по ссылке](https://code.mu/ru/javascript/book/prime/objects/passing-by-reference/)
+
+>>>[Константы](https://code.mu/ru/javascript/book/prime/objects/constants/)
+
+>>>[Подход программирования через константы](https://code.mu/ru/javascript/book/prime/objects/constants-programming-way/)
+
+>>>Практика на поиск ошибок. [Задание](https://code.mu/ru/javascript/book/prime/objects/mistakes/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/objects/mistakes)
+
 
 >>Условия
+>>>[Конструкция if-else](https://code.mu/ru/javascript/book/prime/conditions/if-else/)
+
+>>>[Операторы больше и меньше](https://code.mu/ru/javascript/book/prime/conditions/less-more-operators/)
+
+>>>[Проверка на равенство](https://code.mu/ru/javascript/book/prime/conditions/equality-checking/)
+
+>>>[Проверка на неравенство](https://code.mu/ru/javascript/book/prime/conditions/inequality-checking/)
+
+>>>[Сравнение переменных](https://code.mu/ru/javascript/book/prime/conditions/variables-comparison/)
+
+>>>[Равенство строк](https://code.mu/ru/javascript/book/prime/conditions/strings-equality/)
+
+>>>[Равенство строк и чисел](https://code.mu/ru/javascript/book/prime/conditions/strings-numbers-equality/)
+
+>>>[Равенство по значению и типу](https://code.mu/ru/javascript/book/prime/conditions/values-types-equality/)
+
+>>>[Неравенство по значению и типу](https://code.mu/ru/javascript/book/prime/conditions/values-types-inequality/)
+
+>>>[Логическое И](https://code.mu/ru/javascript/book/prime/conditions/logical-and/)
+
+>>>[Логическое ИЛИ](https://code.mu/ru/javascript/book/prime/conditions/logical-or/)
+
+>>>[Приоритет логических операторов](https://code.mu/ru/javascript/book/prime/conditions/logical-operators-priority/)
+
+>>>[Группировка условий](https://code.mu/ru/javascript/book/prime/conditions/conditions-grouping/)
+
+>>>[Инвертирование логических выражений](https://code.mu/ru/javascript/book/prime/conditions/logical-statements-inverting/)
+
+>>>[Условия с булевыми значениями](https://code.mu/ru/javascript/book/prime/conditions/boolean-values-conditions/)
+
+>>>[Сравнение значений с булевым типом](https://code.mu/ru/javascript/book/prime/conditions/comparison-with-boolean/)
+
+>>>[Сокращенная форма проверки на истину](https://code.mu/ru/javascript/book/prime/conditions/shorthand-true-checking/)
+
+>>>[Сокращенная форма проверки на ложь](https://code.mu/ru/javascript/book/prime/conditions/shorthand-false-checking/)
+
+>>>[Общая сокращенная форма проверки](https://code.mu/ru/javascript/book/prime/conditions/shorthand-checking/)
+
+>>>[Сложные условия в сокращенной форме](https://code.mu/ru/javascript/book/prime/conditions/shorthand-compound-statements/)
+
+>>>[Необязательность конструкции else](https://code.mu/ru/javascript/book/prime/conditions/else-not-mandatory/)
+
+>>>[Необязательность фигурных скобок](https://code.mu/ru/javascript/book/prime/conditions/curly-brackets-not-mandatory/)
+
+>>>[Конструкция else if](https://code.mu/ru/javascript/book/prime/conditions/else-if/)
+
+>>>[Вложенные конструкции if-else](https://code.mu/ru/javascript/book/prime/conditions/nested-if-else/)
+
+>>>[Конструкция switch-case](https://code.mu/ru/javascript/book/prime/conditions/switch-case/)
+
+>>>[Необязательность break](https://code.mu/ru/javascript/book/prime/conditions/break-not-mandatory/)
+
+>>>[Тернарный оператор](https://code.mu/ru/javascript/book/prime/conditions/ternary-operator/)
+
+>>>[Логические операции](https://code.mu/ru/javascript/book/prime/conditions/logical-operations/)
+
+>>>[Функция confirm](https://code.mu/ru/javascript/book/prime/conditions/confirm/)
+
+>>>[Область видимости](https://code.mu/ru/javascript/book/prime/conditions/scope/)
+
+>>>[Нюансы области видимости](https://code.mu/ru/javascript/book/prime/conditions/scope-nuances/)
+
+>>>[Проверка частей часа](https://code.mu/ru/javascript/book/prime/conditions/examples/hours-parts/)
+
+>>>[Проверка длины строк и массивов](https://code.mu/ru/javascript/book/prime/conditions/examples/strings-arrays-length/)
+
+>>>[Проверка символов строки](https://code.mu/ru/javascript/book/prime/conditions/examples/strings-characters/)
+
+>>>[Проверка цифр числа](https://code.mu/ru/javascript/book/prime/conditions/examples/numbers-digits/)
+
+>>>[Проверка остатка от деления](https://code.mu/ru/javascript/book/prime/conditions/examples/division-remainders/)
+
 
 >>Циклы
+>>>[Введение](https://code.mu/ru/javascript/book/prime/loops/intro/)
+
+>>>[Цикл for](https://code.mu/ru/javascript/book/prime/loops/for/)
+
+>>>[Цикл for-of](https://code.mu/ru/javascript/book/prime/loops/for-of/)
+
+>>>[Цикл for-in](https://code.mu/ru/javascript/book/prime/loops/for-in/)
+
+>>>[Цикл while](https://code.mu/ru/javascript/book/prime/loops/while/)
+
+>>>[Цикл for для массивов](https://code.mu/ru/javascript/book/prime/loops/array-for/)
+
+>>>[Условия в циклах](https://code.mu/ru/javascript/book/prime/loops/conditions/)
+
+>>>[Суммирование чисел](https://code.mu/ru/javascript/book/prime/loops/numbers-accumulation/)
+
+>>>[Суммирование элементов массивов](https://code.mu/ru/javascript/book/prime/loops/array-elements-accumulation/)
+
+>>>[Формирование строк](https://code.mu/ru/javascript/book/prime/loops/string-forming/)
+
+>>>[Цифры числа](https://code.mu/ru/javascript/book/prime/loops/numbers-digits/)
+
+>>>[Инструкция break](https://code.mu/ru/javascript/book/prime/loops/break/)
+
+>>>[Инструкция continue](https://code.mu/ru/javascript/book/prime/loops/continue/)
+
+>>>[Вложенные циклы](https://code.mu/ru/javascript/book/prime/loops/nested/)
+
+>>>[Область видимости](https://code.mu/ru/javascript/book/prime/loops/scope/)
+
+>>>[Вложенные циклы и область видимости](https://code.mu/ru/javascript/book/prime/loops/nested-loops-and-scope/)
+
+>>>[Заполнение массивов](https://code.mu/ru/javascript/book/prime/loops/arrays-filling/)
+
+>>>[Изменение массивов](https://code.mu/ru/javascript/book/prime/loops/arrays-changing/)
+
+>>>[Заполнение объектов](https://code.mu/ru/javascript/book/prime/loops/objects-filling/)
+
+>>>[Изменение объектов](https://code.mu/ru/javascript/book/prime/loops/objects-changing/)
+
+>>>[Работа с флагами](https://code.mu/ru/javascript/book/prime/loops/flags/)
+
+>>>[Подсчет элементов в массиве](https://code.mu/ru/javascript/book/prime/loops/array-elements-counting/)
+
+>>>[Объект с количеством элементов](https://code.mu/ru/javascript/book/prime/loops/object-with-counting/)
+
+>>>[Получение соседей элементов в массиве](https://code.mu/ru/javascript/book/prime/loops/array-elements-neighbors/)
+
+>>>[Советы по написанию кода](https://code.mu/ru/javascript/book/prime/loops/coding/)
+
+>>>[Советы по отладке кода](https://code.mu/ru/javascript/book/prime/loops/debugging/)
+
+>>>Практика на поиск ошибок . [Задание](https://code.mu/ru/javascript/book/prime/loops/mistakes/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/loops/mistakes)
+
+>>>Практика. [Задание](https://code.mu/ru/javascript/book/prime/loops/practicum/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/loops/practicum)
+
 
 >>Многомерность
+>>>[Многомерные массивы](https://code.mu/ru/javascript/book/prime/multi/arrays/)
+
+>>>[Перебор многомерных массивов](https://code.mu/ru/javascript/book/prime/multi/arrays-iteration/)
+
+>>>[Заполнение многомерных массивов](https://code.mu/ru/javascript/book/prime/multi/arrays-filling/)
+
+>>>Проблемы при заполнении многомерных массивов. [Задание](https://code.mu/ru/javascript/book/prime/multi/arrays-filling-ploblems/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/multi/arrays-filling-ploblems)
+
+>>>Заполнение многомерных массивов по порядку. [Задание](https://code.mu/ru/javascript/book/prime/multi/arrays-filling-order/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/multi/arrays-filling-order)
+
+>>>Многомерные объекты. [Задание](https://code.mu/ru/javascript/book/prime/multi/objects/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/multi/objects)
+
+>>>Перебор многомерных объектов. [Задание](https://code.mu/ru/javascript/book/prime/multi/objects-iteration/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/multi/objects-iteration)
+
+>>>[Многомерные структуры](https://code.mu/ru/javascript/book/prime/multi/structures/)
+
+>>>[Перебор многомерных структур](https://code.mu/ru/javascript/book/prime/multi/structures-iteration/)
+
+>>>[Массив объектов](https://code.mu/ru/javascript/book/prime/multi/array-of-objects/)
+
+>>>Ключи из переменных. [Задание](https://code.mu/ru/javascript/book/prime/multi/vars-keys/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/multi/vars-keys)
+
+>>>[Добавление элементов в массивы](https://code.mu/ru/javascript/book/prime/multi/arrays-elements-adding/)
+
+>>>Добавление элементов в объекты. [Задание](https://code.mu/ru/javascript/book/prime/multi/objects-elements-adding/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/multi/objects-elements-adding)
+
 
 >>Стандартные методы
+>>>Математические методы. [Задание](https://code.mu/ru/javascript/book/prime/inbuilt/math/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/inbuilt/math)
+
+>>>Строковые методы. [Задание](https://code.mu/ru/javascript/book/prime/inbuilt/string/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/inbuilt/string)
+
+>>>Методы для массивов. [Задание](https://code.mu/ru/javascript/book/prime/inbuilt/array/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/inbuilt/array)
+
 
 >>Пользовательские функции
+>>>[Введение ](https://code.mu/ru/javascript/book/prime/functions/intro/)
+
+>>>[Параметры функции](https://code.mu/ru/javascript/book/prime/functions/parameters/)
+
+>>>[Несколько параметров](https://code.mu/ru/javascript/book/prime/functions/several-parameters/)
+
+>>>[Параметры-переменные](https://code.mu/ru/javascript/book/prime/functions/parameters-variables/)
+
+>>>[Необязательные параметры](https://code.mu/ru/javascript/book/prime/functions/optional-parameters/)
+
+>>>[Инструкция return](https://code.mu/ru/javascript/book/prime/functions/return/)
+
+>>>[Последовательный вызов функций](https://code.mu/ru/javascript/book/prime/functions/sequential-calling/)
+
+>>>[Тонкое место return](https://code.mu/ru/javascript/book/prime/functions/return-nuance/)
+
+>>>[Цикл и return](https://code.mu/ru/javascript/book/prime/functions/return-loop/)
+
+>>>[Применение return в циклах](https://code.mu/ru/javascript/book/prime/functions/return-loop-applying/)
+
+>>>[Прием работы с return](https://code.mu/ru/javascript/book/prime/functions/return-dodge/)
+
+>>>[Флаги в функциях](https://code.mu/ru/javascript/book/prime/functions/flags/)
+
+>>>[Логические операторы в функциях](https://code.mu/ru/javascript/book/prime/functions/logical-operators/)
+
+>>>[Советы по функциям](https://code.mu/ru/javascript/book/prime/functions/advices/)
+
+>>>Практика на поиск ошибок. [Задание](https://code.mu/ru/javascript/book/prime/functions/mistakes/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/mistakes)
+
+>>>Практика на функции. [Задание](https://code.mu/ru/javascript/book/prime/functions/practicum/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/practicum)
+
 
 >>Продвинутая теория на функции
+>>>[Глобальные переменные](https://code.mu/ru/javascript/book/prime/functions/global-variables/)
+
+>>>[Локальные переменные в функциях в JavaScript](https://code.mu/ru/javascript/book/prime/functions/local-variables/)
+
+>>>[Совпадение имен переменных](https://code.mu/ru/javascript/book/prime/functions/variables-names-coincidence/)
+
+>>>Изменение глобальных переменных. [Задание](https://code.mu/ru/javascript/book/prime/functions/global-variables-changing/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/global-variables-changing)
+
+>>>Глобальные переменные и параметры функций. [Задание](https://code.mu/ru/javascript/book/prime/functions/global-variables-and-parameters/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/global-variables-and-parameters)
+
+>>>[Совпадение имен с параметрами](https://code.mu/ru/javascript/book/prime/functions/parameters-names-coincidence/)
+
+>>>Параметры-объекты. [Задание](https://code.mu/ru/javascript/book/prime/functions/parameters-objects/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/parameters-objects)
+
+>>>[Исходный код функции и результат](https://code.mu/ru/javascript/book/prime/functions/function-code-result/)
+
+>>>Функция как переменная. [Задание](https://code.mu/ru/javascript/book/prime/functions/function-as-variable/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/function-as-variable)
+
+>>>Функциональные выражения и объявление фукций. [Задание](https://code.mu/ru/javascript/book/prime/functions/function-declaration-expression/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/function-declaration-expression)
+
+>>>Нюансы функциональных выражений. [Задание](https://code.mu/ru/javascript/book/prime/functions/functional-expressions-nuances/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/functional-expressions-nuances)
+
+>>>[Массив с функциями](https://code.mu/ru/javascript/book/prime/functions/functions-array/)
+
+>>>[Объект с функциями](https://code.mu/ru/javascript/book/prime/functions/functions-object/)
+
+>>>Передача функций параметрами. [Задание](https://code.mu/ru/javascript/book/prime/functions/passing-functions-as-parameters/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/passing-functions-as-parameters)
+
+>>>[Именованные фунциональные выражения](https://code.mu/ru/javascript/book/prime/functions/named-functional-expressions/)
+
+>>>[Вложенные функции](https://code.mu/ru/javascript/book/prime/functions/nested-functions/)
+
+>>>Область видимости вложенных функций. [Задание](https://code.mu/ru/javascript/book/prime/functions/nested-functions-scope/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/nested-functions-scope)
+
+>>>[Функция, возвращающая функцию](https://code.mu/ru/javascript/book/prime/functions/function-returning-function/)
+
+>>>[Лексическое окружение фукций](https://code.mu/ru/javascript/book/prime/functions/functions-lexical-environment/)
+
+>>>Замыкания. [Задание](https://code.mu/ru/javascript/book/prime/functions/closures/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/closures)
+
+>>>Вызов функции на месте. [Задание](https://code.mu/ru/javascript/book/prime/functions/immediately-invoked-function-expression/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/immediately-invoked-function-expression)
+
+>>>[Замыкания и вызов функции на месте](https://code.mu/ru/javascript/book/prime/functions/closures-and-IIEF/)
+
+>>>[Функции-коллбэки](https://code.mu/ru/javascript/book/prime/functions/callbacks/)
+
+>>>[Стрелочные функции](https://code.mu/ru/javascript/book/prime/functions/arrow-functions/)
+
+>>>[Рекурсия](https://code.mu/ru/javascript/book/prime/functions/recursion/)
+
+>>>Рекурсия и многомерные структуры. [Задание](https://code.mu/ru/javascript/book/prime/functions/recursion-structures/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/functions/recursion-structures)
+
 
 >>Перебирающие методы
+>>>[Метод map](https://code.mu/ru/javascript/book/prime/enumeration/map/)
+
+>>>[Метод forEach](https://code.mu/ru/javascript/book/prime/enumeration/forEach/)
+
+>>>[Метод filter](https://code.mu/ru/javascript/book/prime/enumeration/filter/)
+
+>>>[Метод every](https://code.mu/ru/javascript/book/prime/enumeration/every/)
+
+>>>[Метод some](https://code.mu/ru/javascript/book/prime/enumeration/some/)
+
 
 >>Операторы spread и rest
+>>>[Оператор spread](https://code.mu/ru/javascript/book/prime/ellipsis/spread/)
+
+>>>[Оператор spread и слияние массивов](https://code.mu/ru/javascript/book/prime/ellipsis/spread-and-array-merging/)
+
+>>>[Оператор spread для строк и чисел](https://code.mu/ru/javascript/book/prime/ellipsis/spread-strings-numbers/)
+
+>>>[Оператор rest](https://code.mu/ru/javascript/book/prime/ellipsis/rest/)
+
+>>>[Применение операторов spread и rest](https://code.mu/ru/javascript/book/prime/ellipsis/spread-rest-applying/)
+
 
 >>Деструктуризация
+>>>[Деструктуризация массивов](https://code.mu/ru/javascript/book/prime/destructuring/arrays/intro/)
+
+>>>[Массив из функции](https://code.mu/ru/javascript/book/prime/destructuring/arrays/function-result/)
+
+>>>[Пропуск элементов массива](https://code.mu/ru/javascript/book/prime/destructuring/arrays/skip-elements/)
+
+>>>[Лишние значения массива](https://code.mu/ru/javascript/book/prime/destructuring/arrays/excess-values/)
+
+>>>[Остаток массива](https://code.mu/ru/javascript/book/prime/destructuring/arrays/rest/)
+
+>>>[Значения по умолчанию для массивов](https://code.mu/ru/javascript/book/prime/destructuring/arrays/default-values/)
+
+>>>[Функции по умолчанию для массивов](https://code.mu/ru/javascript/book/prime/destructuring/arrays/functions-default-values/)
+
+>>>[Объявление переменных для массивов](https://code.mu/ru/javascript/book/prime/destructuring/arrays/variables-declaration/)
+
+>>>[Деструктуризация объектов](https://code.mu/ru/javascript/book/prime/destructuring/objects/intro/)
+
+>>>[Имена переменных для объектов](https://code.mu/ru/javascript/book/prime/destructuring/objects/variables-names/)
+
+>>>[Значения по умолчанию для объектов](https://code.mu/ru/javascript/book/prime/destructuring/objects/default-values/)
+
+>>>[Переменные и значения по умолчанию для объектов](https://code.mu/ru/javascript/book/prime/destructuring/objects/variables-default-values/)
+
+>>>[Объявление переменных для объектов](https://code.mu/ru/javascript/book/prime/destructuring/objects/variables-declaration/)
+
+>>>[Параметры функций](https://code.mu/ru/javascript/book/prime/destructuring/function-parameters/)
 
 >>Время
 
