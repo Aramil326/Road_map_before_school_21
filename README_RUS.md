@@ -106,24 +106,43 @@
 ## HTML
 >Основы HTML
 >>[Основная структура страницы](https://code.mu/ru/markup/book/prime/html/page-structure/)
+
 >>[Основные теги](https://code.mu/ru/markup/book/prime/html/basic-tags/)
+
 >>[Списки](https://code.mu/ru/markup/book/prime/html/lists/)
+
 >>[Ссылки](https://code.mu/ru/markup/book/prime/html/links/)
+
 >>[Изображения](https://code.mu/ru/markup/book/prime/html/images/)
+
 >>[Таблицы](https://code.mu/ru/markup/book/prime/html/tables/)
+
 >>[Практикум](https://code.mu/ru/markup/book/prime/html/practicum/)
 
 >Формы
 >>[Основыние элементы формы](https://code.mu/ru/markup/book/supreme/form/basic-elements/)
+
 >>[Чекбоксы](https://code.mu/ru/markup/book/supreme/form/checkbox/)
+
 >>[Радио переключатель](https://code.mu/ru/markup/book/supreme/form/radio/)
+
 >>[Многострочные поля ввода](https://code.mu/ru/markup/book/supreme/form/textarea/)
+
 >>[Изменение размера textarea](https://code.mu/ru/markup/book/supreme/form/textarea-size/)
+
 >>[Подсказка placeholder](https://code.mu/ru/markup/book/supreme/form/placeholer/)
+
 >>[Выпадающие списки](https://code.mu/ru/markup/book/supreme/form/select/)
+
 >>[Блокировка элементов форм](https://code.mu/ru/markup/book/supreme/form/disabling/)
+
 >>[Подпись формы](https://code.mu/ru/markup/book/supreme/form/legend/)
+
 >>[Типы инпутов](https://code.mu/ru/markup/book/supreme/form/input-types/)
+
 >>[Фокус для элементов форм](https://code.mu/ru/markup/book/supreme/form/focus/)
+
 >>[Псевдоклассы для элементов форм](https://code.mu/ru/markup/book/supreme/form/pseudo/)
+
 >>[Автозаполнение полей](https://code.mu/ru/markup/book/supreme/form/autocomplete/)
+
