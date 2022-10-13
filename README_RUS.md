@@ -1085,26 +1085,282 @@
 
 >>>[Параметры функций](https://code.mu/ru/javascript/book/prime/destructuring/function-parameters/)
 
+
 >>Время
+>>>[Работа с объектом date](https://code.mu/ru/javascript/book/prime/time/object-Date/)
+
+>>>[Форматирование даты](https://code.mu/ru/javascript/book/prime/time/date-formatting/)
+
+>>>[Смены формата даты](https://code.mu/ru/javascript/book/prime/time/format-changing/)
+
+>>>[Получение дня недели](https://code.mu/ru/javascript/book/prime/time/weekday-getting/)
+
+>>>[Вывод даты словом](https://code.mu/ru/javascript/book/prime/time/word-date-output/)
+
+>>>[Установка времени](https://code.mu/ru/javascript/book/prime/time/time-setting/)
+
+>>>[Формат timestamp](https://code.mu/ru/javascript/book/prime/time/timestamp-format/)
+
+>>>[Разность между timestamp](https://code.mu/ru/javascript/book/prime/time/timestamp-difference/)
+
+>>>[Разность объектов с датами](https://code.mu/ru/javascript/book/prime/time/dates-objects-difference/)
+
+>>>[Автоматическая корректировка дат](https://code.mu/ru/javascript/book/prime/time/auto-date-adjustment/)
+
+>>>[Нахождение последнего месяца](https://code.mu/ru/javascript/book/prime/time/month-last-day/)
+
+>>>[Определение високосного года](https://code.mu/ru/javascript/book/prime/time/leap-year/)
+
+>>>[Проверка корректности даты](https://code.mu/ru/javascript/book/prime/time/date-correctness-checking/)
+
+>>>[Получение моментов времени](https://code.mu/ru/javascript/book/prime/time/time-moments-getting/)
+
+>>>[Практика на получение моментов времени](https://code.mu/ru/javascript/book/prime/time/time-moments-training/)
+
+>>>[Строковое сравнение дат](https://code.mu/ru/javascript/book/prime/time/dates-string-comparison/)
+
+>>>[Сравнение объектов с датой](https://code.mu/ru/javascript/book/prime/time/comparing-dates-objects/)
+
 
 >>Введение в DOM
+>>>[Введение](https://code.mu/ru/javascript/book/prime/dom/basis/intro/)
+
+>>>[DOM элементы](https://code.mu/ru/javascript/book/prime/dom/basis/dom-elements/)
+
+>>>[Получение DOM элементов](https://code.mu/ru/javascript/book/prime/dom/basis/element-getting/)
+
+>>>[Привязывание обработчиков](https://code.mu/ru/javascript/book/prime/dom/basis/events-handlers-binding/)
+
+>>>[Именованные обработчики](https://code.mu/ru/javascript/book/prime/dom/basis/named-event-handlers/)
+
+>>>[Один обработчик к элементам](https://code.mu/ru/javascript/book/prime/dom/basis/many-elements-handler/)
+
+>>>[Обработчики одного события](https://code.mu/ru/javascript/book/prime/dom/basis/several-handlers/)
+
+>>>[Обработчики разных событий](https://code.mu/ru/javascript/book/prime/dom/basis/different-events-handlers/)
+
+>>>[Текст элемента](https://code.mu/ru/javascript/book/prime/dom/basis/element-text/)
+
+>>>[HTML код элемента](https://code.mu/ru/javascript/book/prime/dom/basis/element-html/)
+
+>>>[Атрибуты тегов как свойства](https://code.mu/ru/javascript/book/prime/dom/basis/attributes-via-properties/)
+
+>>>[Работа с текстовыми полями](https://code.mu/ru/javascript/book/prime/dom/basis/text-fields/)
+
+>>>[Фокус текстовых полей](https://code.mu/ru/javascript/book/prime/dom/basis/text-fields-focus/)
+
+>>>[Атрибуты-исключения](https://code.mu/ru/javascript/book/prime/dom/basis/exception-attributes/)
+
+>>>[Цепочки методов и свойств](https://code.mu/ru/javascript/book/prime/dom/basis/chaining/)
+
+>>>[Объект this](https://code.mu/ru/javascript/book/prime/dom/basis/this/)
+
+>>>[Преимущество this](https://code.mu/ru/javascript/book/prime/dom/basis/this-advantage/)
+
+>>>[Получение группы элементов](https://code.mu/ru/javascript/book/prime/dom/basis/elements-group-getting/)
+
+>>>[Именованные обработчики в цикле](https://code.mu/ru/javascript/book/prime/dom/basis/loop-named-handlers/)
+
+>>>[Анонимные обработчики в цикле](https://code.mu/ru/javascript/book/prime/dom/basis/loop-anonymous-handlers/)
+
+>>>[Отвязывание обработчиков событий](https://code.mu/ru/javascript/book/prime/dom/basis/handlers-unbinding/)
+
+>>>[Отвязывание обработчиков в цикле](https://code.mu/ru/javascript/book/prime/dom/basis/loop-handlers-unbinding/)
+
+>>>[Отвязывание анонимных обработчиков](https://code.mu/ru/javascript/book/prime/dom/basis/anonymous-handlers-unbinding/)
+
+>>>[Методы для атрибутов](https://code.mu/ru/javascript/book/prime/dom/basis/attributes-via-methods/)
+
+>>>[Манипулирование css классами](https://code.mu/ru/javascript/book/prime/dom/basis/css-classes-manipulation/)
+
+>>>[Стилизация через атрибут style](https://code.mu/ru/javascript/book/prime/dom/basis/attribute-style-stylization/)
+
+>>>[Стилизация через css классы](https://code.mu/ru/javascript/book/prime/dom/basis/css-classes-stylization/)
+
+>>>[Родительские связи](https://code.mu/ru/javascript/book/prime/dom/basis/parent-relationships-searching/)
+
+>>>[Другие методы поиска](https://code.mu/ru/javascript/book/prime/dom/basis/other-search-methods/)
+
+>>>[Поиск внутри элемента](https://code.mu/ru/javascript/book/prime/dom/basis/inside-element-searching/)
+
+>>>[Пользовательские атрибуты](https://code.mu/ru/javascript/book/prime/dom/basis/data-attrubutes/)
+
+>>>[Работа с узлами](https://code.mu/ru/javascript/book/prime/dom/basis/nodes/)
+
+>>>[Советы по написанию кода](https://code.mu/ru/javascript/book/prime/dom/basis/coding/)
+
 
 >>Формы
+>>>[Работа с текстареа](https://code.mu/ru/javascript/book/prime/dom/form/textarea/)
+
+>>>[Блокировка элементов](https://code.mu/ru/javascript/book/prime/dom/form/disabled/)
+
+>>>[Работа с чекбоксами](https://code.mu/ru/javascript/book/prime/dom/form/checkbox/)
+
+>>>[Чередование атрибутов без значений](https://code.mu/ru/javascript/book/prime/dom/form/attributes-without-values-alternation/)
+
+>>>[Работа с радиокнопками](https://code.mu/ru/javascript/book/prime/dom/form/radio/)
+
+>>>[Событие change](https://code.mu/ru/javascript/book/prime/dom/form/onchange/)
+
+>>>[Событие input](https://code.mu/ru/javascript/book/prime/dom/form/oninput/)
+
+>>>[Методы focus и blur](https://code.mu/ru/javascript/book/prime/dom/form/focus-blur/)
+
+>>>[Работа с выпадающими списками](https://code.mu/ru/javascript/book/prime/dom/form/select/dropdown-lists/)
+
+>>>[Изменение выбранного пункта списка ](https://code.mu/ru/javascript/book/prime/dom/form/select/selected-item-changing/)
+
+>>>[Номер выбранного пункта списка](https://code.mu/ru/javascript/book/prime/dom/form/select/selected-item-number/)
+
+>>>[Получение пунктов выпадающего списка](https://code.mu/ru/javascript/book/prime/dom/form/select/dropdown-list-items-getting/)
+
+>>>[Работа с пунктами выпадающего списка](https://code.mu/ru/javascript/book/prime/dom/form/select/dropdown-list-items-options/)
+
+>>>[Практика на поиск ошибок](https://code.mu/ru/javascript/book/prime/dom/form/mistakes/)
+
 
 >>Объект event
+>>>[Основы работы с объектом Event](https://code.mu/ru/javascript/book/prime/dom/object-Event/intro/)
+
+>>>[Координаты события](https://code.mu/ru/javascript/book/prime/dom/object-Event/event-coordinates/)
+
+>>>[Тип события](https://code.mu/ru/javascript/book/prime/dom/object-Event/event-type/)
+
+>>>[Элемент события](https://code.mu/ru/javascript/book/prime/dom/object-Event/event-element/)
+
+>>>[Получение нажатых клавиш](https://code.mu/ru/javascript/book/prime/dom/object-Event/pressed-keys-getting/)
+
+>>>[Отслеживание клавиш-модификаторов](https://code.mu/ru/javascript/book/prime/dom/object-Event/keys-modifiers/)
+
+>>>[Отмена действия по умолчанию](https://code.mu/ru/javascript/book/prime/dom/object-Event/cancel-default-action/)
+
+>>>[Всплытие событий](https://code.mu/ru/javascript/book/prime/dom/object-Event/events-bubbling/)
+
+>>>[Целевой элемент при всплытии](https://code.mu/ru/javascript/book/prime/dom/object-Event/bubbling-target-element/)
+
+>>>[Прекращение всплытия событий](https://code.mu/ru/javascript/book/prime/dom/object-Event/stop-events-bubbling/)
+
+>>>[Погружение событий](https://code.mu/ru/javascript/book/prime/dom/object-Event/events-capturing/)
+
+>>>[Обработчики на новые элементы](https://code.mu/ru/javascript/book/prime/dom/object-Event/new-elements-handlers/)
+
+>>>[Делегирование событий](https://code.mu/ru/javascript/book/prime/dom/object-Event/events-delegation/)
+
 
 >>Контекст
+>>>[Основы работы с контекстом](https://code.mu/ru/javascript/book/prime/context/intro/)
+
+>>>[Контекст непривязанной функции](https://code.mu/ru/javascript/book/prime/context/unbound-function-context/)
+
+>>>[Потеря контекста](https://code.mu/ru/javascript/book/prime/context/context-losing/)
+
+>>>[Решение проблемы с контекстом](https://code.mu/ru/javascript/book/prime/context/solving-context-problem/)
+
+>>>[Метод call](https://code.mu/ru/javascript/book/prime/context/call-method/)
+
+>>>[Метод apply](https://code.mu/ru/javascript/book/prime/context/apply-method/)
+
+>>>[Метод bind](https://code.mu/ru/javascript/book/prime/context/bind-method/)
+
 
 >>Таймеры
+>>>[Запуск таймера](https://code.mu/ru/javascript/book/prime/timers/launching/)
+
+>>>[Счетчик на таймере](https://code.mu/ru/javascript/book/prime/timers/counter/)
+
+>>>[Остановка таймера](https://code.mu/ru/javascript/book/prime/timers/timer-stopping/)
+
+>>>[Кнопки для запуска](https://code.mu/ru/javascript/book/prime/timers/launch-button/)
+
+>>>[Кнопка для остановки](https://code.mu/ru/javascript/book/prime/timers/stop-button/)
+
+>>>[Работа с DOM](https://code.mu/ru/javascript/book/prime/timers/dom/)
+
+>>>[Таймеры и потеря контекста](https://code.mu/ru/javascript/book/prime/timers/timers-and-context-losing/)
+
+>>>[Передача контекста параметром](https://code.mu/ru/javascript/book/prime/timers/passing-context-by-parameter/)
+
+>>>[Практика на таймеры и DOM](https://code.mu/ru/javascript/book/prime/timers/practicum/)
+
+>>>[Задержка перед выполнением](https://code.mu/ru/javascript/book/prime/timers/delay-before-execution/)
+
 
 >>Манипулирование элементами
+>>>[Создание и вставка элементов](https://code.mu/ru/javascript/book/prime/dom/manipulation/creating-and-inserting-elements/)
+
+>>>[Навешивание событий при вставке](https://code.mu/ru/javascript/book/prime/dom/manipulation/insertion-binding-events/)
+
+>>>[Создание элементов в цикле](https://code.mu/ru/javascript/book/prime/dom/manipulation/loop-elements-creating/)
+
+>>>[Навешивание обработчиков в цикле](https://code.mu/ru/javascript/book/prime/dom/manipulation/loop-binding-handlers/)
+
+>>>[Удаление элементов](https://code.mu/ru/javascript/book/prime/dom/manipulation/elements-removing/)
+
+>>>[Вставка с краю](https://code.mu/ru/javascript/book/prime/dom/manipulation/insertion-before-after/)
+
+>>>[Смежная вставка](https://code.mu/ru/javascript/book/prime/dom/manipulation/insertion-adjacently/)
+
+>>>[Клонирование элементов](https://code.mu/ru/javascript/book/prime/dom/manipulation/elements-cloning/)
+
+>>>[Проверка элементов](https://code.mu/ru/javascript/book/prime/dom/manipulation/elements-checking/)
 
 >>Практика
+>>>Создание элементов из массива. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/elements-creating-via-array/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/elements-creating-via-array)
+
+>>>Практика на создание списков ul. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/lists-creating/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/lists-creating)
+
+>>>Создание таблиц. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/tables-creating/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/tables-creating)
+
+>>>Последовательное заполнение таблиц. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/tables-consistent-filling/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/tables-consistent-filling)
+
+>>>Создание таблицы из массива. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/table-creating-via-array/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/table-creating-via-array)
+
+>>>Создание таблицы из массива объектов. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/table-creating-via-objects-array/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/table-creating-via-objects-array)
+
+>>>Добавление рядов и колонок в таблицу. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/table-rows-cols-adding/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/table-rows-cols-adding)
+
+>>>Изменение ячеек таблицы. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/tables-cells-modification/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/tables-cells-modification)
+
+>>>Удаление новых элементов. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/new-elements-removing/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/new-elements-removing)
+
+>>>Создание ссылок на удаление. [Задание](https://code.mu/ru/javascript/book/prime/dom/practice/creating-removing-links/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/prime/dom/practice/creating-removing-links)
+
 
 >>Функции и DOM
+>>>[Функции для работы с DOM элементом](https://code.mu/ru/javascript/book/prime/dom/functions/dom-element-functions/)
+
+>>>[Функции для работы с группой элементов](https://code.mu/ru/javascript/book/prime/dom/functions/elements-group-functions/)
+
+>>>[Передача коллбэка для работы с DOM](https://code.mu/ru/javascript/book/prime/dom/functions/callback-passing/)
+
+>>>[Передача порядкового номера в коллбэк](https://code.mu/ru/javascript/book/prime/dom/functions/callback-sequence-number-passing/)
+
+>>>[Передача элемента параметром функции](https://code.mu/ru/javascript/book/prime/dom/functions/passing-element-as-parameter/)
+
+>>>[Передача группы элементов параметрами](https://code.mu/ru/javascript/book/prime/dom/functions/passing-group-as-parameter/)
+
+>>>[Функция для создания HTML таблиц](https://code.mu/ru/javascript/book/prime/dom/functions/tables-creating-function/)
+
+>>>[Возврат таблицы из функции](https://code.mu/ru/javascript/book/prime/dom/functions/returning-table/)
+
+>>>[Функция для создания таблицы из массива](https://code.mu/ru/javascript/book/prime/dom/functions/tables-creating-function-array/)
+
 
 >>Модули через замыкания
+>>>[Конфликты переменных](https://code.mu/ru/javascript/book/prime/modules/variables-conflicts/)
 
+>>>[Модули через замыкания](https://code.mu/ru/javascript/book/prime/modules/modules-clousures/)
+
+>>>[Передача параметров](https://code.mu/ru/javascript/book/prime/modules/passing-parameters/)
+
+>>>[Передача родительского элемента](https://code.mu/ru/javascript/book/prime/modules/passing-parent-elements/)
+
+>>>[Передача настроек модуля](https://code.mu/ru/javascript/book/prime/modules/passing-settings/)
+
+>>>[Экспорт переменных и функций](https://code.mu/ru/javascript/book/prime/modules/variables-functions-export/)
+
+>>>[Библиотеки через замыкания](https://code.mu/ru/javascript/book/prime/modules/libraries/)
 
 
 >### Практика JavaScript
