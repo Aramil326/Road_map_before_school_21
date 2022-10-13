@@ -52,6 +52,10 @@
 
 # Карта моих проектов:
 ## C
+Си изучался мною на вступительном интенсиве в школу 21. Ниже представлены директории проектов, которые я выполнял. Не все были успешными, результаты по проектам и статистика моего аккаунта показаны на картинке ниже:
+<img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/projects.jpg" width="400px" alt="project-statistics">
+<img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/profile.jpg" width="400px" alt="profile">
+
 >[Bash, git](https://github.com/Aramil326/resume/tree/master/C-school21/T02D02-0-develop "T02D02")
 
 >[Базовые операции на языке C, такие как ввод, вывод и арифметика](https://github.com/Aramil326/resume/tree/master/C-school21/T03D03-0-develop "T03D03")
