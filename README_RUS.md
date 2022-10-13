@@ -52,9 +52,9 @@
 
 # Карта моих проектов и конспектов:
 ***
-## [C](#c)
+## [C](https://github.com/Aramil326/resume/blob/master/README_RUS.md#c-1)
 
-## [HTML](#html)
+## [HTML](https://github.com/Aramil326/resume/blob/master/README_RUS.md#html-1)
 
 ## [CSS](#css)
 
@@ -104,7 +104,7 @@
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/profile.jpg" width="400px" alt="profile">
 
 ## HTML
->Основы HTML
+>### Основы HTML
 >>[Основная структура страницы](https://code.mu/ru/markup/book/prime/html/page-structure/)
 
 >>[Основные теги](https://code.mu/ru/markup/book/prime/html/basic-tags/)
@@ -119,7 +119,7 @@
 
 >>[Практикум](https://code.mu/ru/markup/book/prime/html/practicum/)
 
->Формы
+>### Формы
 >>[Основыние элементы формы](https://code.mu/ru/markup/book/supreme/form/basic-elements/)
 
 >>[Чекбоксы](https://code.mu/ru/markup/book/supreme/form/checkbox/)
