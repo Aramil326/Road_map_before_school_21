@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=2000&color=F70000&multiline=true&width=900&height=150&lines=Hi+my+name+is+Aramil.;Let+me+tell+you+what+I+can))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=2000&color=F70000&multiline=true&width=900&height=150&lines=Hi+my+name+is+Aramil.;Let+me+tell+you+what+I+can)](https://git.io/typing-svg)
 
 
 # What can I do and what do I use:
