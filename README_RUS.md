@@ -51,6 +51,16 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # Карта моих проектов:
+***
+[C](##C)
+[CSS](##CSS)
+[HTML](##HTML)
+[LESS](##LESS)
+[БЭМ](##БЭМ)
+[JavaScript](##JavaScript)
+[React](##React)
+***
+
 ## C
 >[Bash, git](https://github.com/Aramil326/resume/tree/master/C-school21/T02D02-0-develop "T02D02")
 
