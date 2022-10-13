@@ -50,21 +50,21 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-# Карта моих проектов:
+# Карта моих проектов и конспектов:
 ***
-[C](#c)
+### [C](#c)
 
-[CSS](#css)
+### [CSS](#css)
 
-[HTML](#html)
+### [HTML](#html)
 
-[LESS](#less)
+### [LESS](#less)
 
-[БЭМ](#бэм)
+### [БЭМ](#бэм)
 
-[JavaScript](#javascript)
+### [JavaScript](#javascript)
 
-[React](#react)
+### [React](#react)
 ***
 
 
