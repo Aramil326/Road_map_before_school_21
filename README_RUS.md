@@ -52,19 +52,19 @@
 
 # Карта моих проектов и конспектов:
 ***
-### [C](#c)
+## [C](#c)
 
-### [CSS](#css)
+## [CSS](#css)
 
-### [HTML](#html)
+## [HTML](#html)
 
-### [LESS](#less)
+## [LESS](#less)
 
-### [БЭМ](#бэм)
+## [БЭМ](#бэм)
 
-### [JavaScript](#javascript)
+## [JavaScript](#javascript)
 
-### [React](#react)
+## [React](#react)
 ***
 
 
