@@ -629,40 +629,121 @@
 ## JavaScript
 >### JavaScript основы
 >>Основы
+>>>[Введение](https://code.mu/ru/javascript/book/prime/basis/intro/)
 
->>
+>>>[Файлы со скриптами](https://code.mu/ru/javascript/book/prime/basis/script-files/)
 
->>
+>>>[Кеширование файлов](https://code.mu/ru/javascript/book/prime/basis/files-caching/)
 
->>
+>>>[Строгий режим](https://code.mu/ru/javascript/book/prime/basis/strict-mode/)
 
->>
+>>>[Комментарии](https://code.mu/ru/javascript/book/prime/basis/comments/)
 
->>
+>>>[Переменные](https://code.mu/ru/javascript/book/prime/basis/variables/)
 
->>
+>>>[Математические операции с числами](https://code.mu/ru/javascript/book/prime/basis/math-operations-numbers/)
 
->>
+>>>[Математические операции с переменными](https://code.mu/ru/javascript/book/prime/basis/math-operations-variables/)
 
->>
+>>>[Приоритет математических операций](https://code.mu/ru/javascript/book/prime/basis/math-operations-priority/)
 
->>
+>>>[Дроби](https://code.mu/ru/javascript/book/prime/basis/fractions/)
 
->>
+>>>[Отрицательные числа](https://code.mu/ru/javascript/book/prime/basis/negative-numbers/)
 
->>
+>>>[Остаток от деления](https://code.mu/ru/javascript/book/prime/basis/division-remainder/)
 
->>
+>>>[Возведение в степень](https://code.mu/ru/javascript/book/prime/basis/numbers-powering/)
 
->>
+>>>[Строки](https://code.mu/ru/javascript/book/prime/basis/strings/)
 
->>
+>>>[Сложение строк](https://code.mu/ru/javascript/book/prime/basis/strings-concatenation/)
 
->>
+>>>[Длина строки](https://code.mu/ru/javascript/book/prime/basis/strings-length/)
 
->>
+>>>[Шаблонные строки](https://code.mu/ru/javascript/book/prime/basis/template-strings/)
 
->>
+>>>[Специальные значения](https://code.mu/ru/javascript/book/prime/basis/special-values/)
+
+>>>[Консоль](https://code.mu/ru/javascript/book/prime/basis/console/)
+
+>>>[Константы](https://code.mu/ru/javascript/book/prime/basis/constants/)
+
+>>>[Автоматическое преобразование типов](https://code.mu/ru/javascript/book/prime/basis/automatic-types-conversion/)
+
+>>>[Преобразование к числу](https://code.mu/ru/javascript/book/prime/basis/conversion-to-number/)
+
+>>>[Выделение чисел](https://code.mu/ru/javascript/book/prime/basis/numbers-extraction/)
+
+>>>[Преобразование к строке](https://code.mu/ru/javascript/book/prime/basis/conversion-to-string/)
+
+>>>[Преобразование логического типа](https://code.mu/ru/javascript/book/prime/basis/logical-type-conversion/)
+
+>>>[Преобразование к логическому типу](https://code.mu/ru/javascript/book/prime/basis/conversion-to-logical-type/)
+
+>>>[Символы строки](https://code.mu/ru/javascript/book/prime/basis/string-characters/)
+
+>>>[Последний символ строки](https://code.mu/ru/javascript/book/prime/basis/last-string-character/)
+
+>>>[Строки с цифрами](https://code.mu/ru/javascript/book/prime/basis/digits-strings/)
+
+>>>[Сокращенные операции](https://code.mu/ru/javascript/book/prime/basis/short-operations/)
+
+>>>[Инкремент и декремент](https://code.mu/ru/javascript/book/prime/basis/increment-decrement/)
+
+>>>[Неточные вычисления](https://code.mu/ru/javascript/book/prime/basis/inaccurate-calculations/)
+
+>>>[Функция prompt](https://code.mu/ru/javascript/book/prime/basis/prompt/)
+
+>>>[Вывод в документ](https://code.mu/ru/javascript/book/prime/basis/document-write/)
+
+>>>Практика на поиск ошибок. [Теория](https://code.mu/ru/javascript/book/prime/basis/mistakes/). <a href="https://github.com/Aramil326/javaScript/commit/ed68a4b00e53926a823bf10bb811d84a17029da5" style="color: red;">Правктика.</a>
+
+>>>[]()
+
+>>>[]()
+
+>>Массивы
+
+>>Объекты
+
+>>Условия
+
+>>Циклы
+
+>>Многомерность
+
+>>Стандартные методы
+
+>>Пользовательские функции
+
+>>Продвинутая теория на функции
+
+>>Перебирающие методы
+
+>>Операторы spread и rest
+
+>>Деструктуризация
+
+>>Время
+
+>>Введение в DOM
+
+>>Формы
+
+>>Объект event
+
+>>Контекст
+
+>>Таймеры
+
+>>Манипулирование элементами
+
+>>Практика
+
+>>Функции и DOM
+
+>>Модули через замыкания
 
 
 
