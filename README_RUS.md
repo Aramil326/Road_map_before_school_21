@@ -510,4 +510,117 @@
 >>[Импортирование файлов](https://code.mu/ru/markup/book/prep/less/files-import/)
 
 >>[Вендорные префиксы](https://code.mu/ru/markup/book/prep/less/vendor-prefixes/)
->>[]()
+
+## БЭМ
+>### Быстрый старт. Необходимый минимум для знакомства с БЭМ
+>>[Блок](https://ru.bem.info/methodology/quick-start/#%D0%B1%D0%BB%D0%BE%D0%BA)
+
+>>[Элемент](https://ru.bem.info/methodology/quick-start/#%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)
+
+>>[Когда создавать блок, когда - элемент?](https://ru.bem.info/methodology/quick-start/#%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-%D0%B1%D0%BB%D0%BE%D0%BA-%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0--%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)
+
+>>[Модификатор](https://ru.bem.info/methodology/quick-start/#%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80)
+
+>>[Микс](https://ru.bem.info/methodology/quick-start/#%D0%BC%D0%B8%D0%BA%D1%81)
+
+>>[Файловая структура](https://ru.bem.info/methodology/quick-start/#%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0)
+
+>### Основные понятия. Что есть что в мире БЭМ
+>>[Блок](https://ru.bem.info/methodology/key-concepts/#%D0%B1%D0%BB%D0%BE%D0%BA)
+
+>>[Элемент](https://ru.bem.info/methodology/key-concepts/#%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)
+
+>>[Модификатор](https://ru.bem.info/methodology/key-concepts/#%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80)
+
+>>[БЭМ-сущность](https://ru.bem.info/methodology/key-concepts/#%D0%B1%D1%8D%D0%BC-%D1%81%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+
+>>[Микс](https://ru.bem.info/methodology/key-concepts/#%D0%BC%D0%B8%D0%BA%D1%81)
+
+>>[БЭМ-дерево](https://ru.bem.info/methodology/key-concepts/#%D0%B1%D1%8D%D0%BC-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE)
+
+>>[Реализация блока](https://ru.bem.info/methodology/key-concepts/#%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0)
+
+>>[Технология реализации](https://ru.bem.info/methodology/key-concepts/#%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8)
+
+>>[Переопределение блока](https://ru.bem.info/methodology/key-concepts/#%D0%BF%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0)
+
+>>[Уровень переопределения](https://ru.bem.info/methodology/key-concepts/#%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C-%D0%BF%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)
+
+>### Соглашение по именованию. Как вложить смысл в имена
+>>[Правила формирования имен](https://ru.bem.info/methodology/naming-convention/#%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BC%D0%B5%D0%BD)
+
+>>[Альтернативные схемы именования](https://ru.bem.info/methodology/naming-convention/#%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%81%D1%85%D0%B5%D0%BC%D1%8B-%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+
+>### CSS. Верстка независимыми блоками
+>>[Селекторы](https://ru.bem.info/methodology/css/#%D1%81%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B)
+
+>>[Модификаторы](https://ru.bem.info/methodology/css/#%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B)
+
+>>[Миксы](https://ru.bem.info/methodology/css/#%D0%BC%D0%B8%D0%BA%D1%81%D1%8B)
+
+>>[Разделение кода на части](https://ru.bem.info/methodology/css/#%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B4%D0%B0-%D0%BD%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D0%B8)
+
+>>[Работа с уровнями переопределения](https://ru.bem.info/methodology/css/#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%D0%BC%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)
+
+>>[Как перейти на CSS по БЭМ](https://ru.bem.info/methodology/css/#%D0%BA%D0%B0%D0%BA-%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0-css-%D0%BF%D0%BE-%D0%B1%D1%8D%D0%BC)
+
+>### HTML. Разметка в БЭМ-терминах
+>>[Привязка блоков к DOM-узлу](https://ru.bem.info/methodology/html/#%D0%BF%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%BE%D0%B2-%D0%BA-dom-%D1%83%D0%B7%D0%BB%D1%83)
+
+>>[Вложенность элементов](https://ru.bem.info/methodology/html/#%D0%B2%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
+
+>>[Использование HTML-обёрток](https://ru.bem.info/methodology/html/#%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-html-%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE%D0%BA)
+
+>>[Создание HTML вручную](https://ru.bem.info/methodology/html/#%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-html-%D0%B2%D1%80%D1%83%D1%87%D0%BD%D1%83%D1%8E)
+
+>>[Автоматическая генерация HTML](https://ru.bem.info/methodology/html/#%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F-html)
+
+>### JavaScript. Декларативно, в БЭМ-терминах
+>>[Единая предметная область](https://ru.bem.info/methodology/js/#%D0%B5%D0%B4%D0%B8%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)
+
+>>[Разделение кода на части](https://ru.bem.info/methodology/js/#%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B4%D0%B0-%D0%BD%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D0%B8)
+
+>>[Работа с уровнями переопределения](https://ru.bem.info/methodology/js/#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%D0%BC%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)
+
+>>[Робота с блоками](https://ru.bem.info/methodology/js/#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0%D0%BC%D0%B8)
+
+>>[Работа с модификаторами](https://ru.bem.info/methodology/js/#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D0%BC%D0%B8)
+
+>>[Как перейти на JavaScript по БЭМ](https://ru.bem.info/methodology/js/#%D0%BA%D0%B0%D0%BA-%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0-javascript-%D0%BF%D0%BE-%D0%B1%D1%8D%D0%BC)
+
+>### Файловая структура. Единые правила организации кода
+>>[Принципы организации файловой структуры БЭМ-проекта](https://ru.bem.info/methodology/filestructure/#%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B1%D1%8D%D0%BC-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+
+>>[Схемы](https://ru.bem.info/methodology/filestructure/#%D1%81%D1%85%D0%B5%D0%BC%D1%8B)
+
+>### Уровни переопределения. Расширение возможностей блоков
+>>[Понятие уровня переопределения](https://ru.bem.info/methodology/redefinition-levels/#%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)
+
+>>[Задачи уровней переопределения](https://ru.bem.info/methodology/redefinition-levels/#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)
+
+>>[Порядок использования уровней переопределения](https://ru.bem.info/methodology/redefinition-levels/#%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)
+
+>>[Примеры использования уровней переопределения](https://ru.bem.info/methodology/redefinition-levels/#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)
+
+>### Модификация блока. Множественное наследование, сделанное правильно
+>>[Как выбрать способ изменения блока](https://ru.bem.info/methodology/block-modification/#%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0)
+
+>>[Изменение блока модификатором](https://ru.bem.info/methodology/block-modification/#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%BC)
+
+>>[Изменение блока миксом](https://ru.bem.info/methodology/block-modification/#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BC%D0%B8%D0%BA%D1%81%D0%BE%D0%BC)
+
+>>[Изменение блока контекстом](https://ru.bem.info/methodology/block-modification/#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%BC)
+
+>### Сборка. Оптимальный runtime
+>>[Введение](https://ru.bem.info/methodology/build/#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+
+>>[Этапы сборки](https://ru.bem.info/methodology/build/#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8)
+
+>>[Результат сборки](https://ru.bem.info/methodology/build/#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8)
+
+>>[Инструменты для сборки](https://ru.bem.info/methodology/build/#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8)
+
+>### Декларации. Абстракция над разметкой
+>>[Способы получения декларации](https://ru.bem.info/methodology/declarations/#%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D0%B8)
+
+>>[Работы с декларациями](https://ru.bem.info/methodology/declarations/#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B4%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D1%8F%D0%BC%D0%B8)
