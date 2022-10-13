@@ -53,13 +53,36 @@
 # Карта моих проектов:
 ***
 [C](##C)
+
 [CSS](##CSS)
+
 [HTML](##HTML)
+
 [LESS](##LESS)
+
 [БЭМ](##БЭМ)
+
 [JavaScript](##JavaScript)
+
 [React](##React)
 ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## C
 >[Bash, git](https://github.com/Aramil326/resume/tree/master/C-school21/T02D02-0-develop "T02D02")
