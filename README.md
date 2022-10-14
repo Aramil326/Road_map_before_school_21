@@ -57,6 +57,9 @@
 
 ### Свяжись со мной
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aramil_Shaimardanow)
+
+***
+
 ### Code Wars
 [![codewars](https://www.codewars.com/users/Aramil326/badges/large)](https://www.codewars.com/users/Aramil326)
 ***
@@ -72,19 +75,19 @@
 
 ### Карта конспектов, ссылок на источники, откуда я черпал информацию, выполненных практических заданий и проектов
 
-### [C](https://github.com/Aramil326/resume#c-1)
+#### [C](https://github.com/Aramil326/resume#c-1)
 
-### [HTML](https://github.com/Aramil326/resume#html-1)
+#### [HTML](https://github.com/Aramil326/resume#html-1)
 
-### [CSS](https://github.com/Aramil326/resume#css-1)
+#### [CSS](https://github.com/Aramil326/resume#css-1)
 
-### [LESS](https://github.com/Aramil326/resume#less-1)
+#### [LESS](https://github.com/Aramil326/resume#less-1)
 
-### [БЭМ](https://github.com/Aramil326/resume#%D0%B1%D1%8D%D0%BC-1)
+#### [БЭМ](https://github.com/Aramil326/resume#%D0%B1%D1%8D%D0%BC-1)
 
-### [JavaScript](https://github.com/Aramil326/resume#javascript-1)
+#### [JavaScript](https://github.com/Aramil326/resume#javascript-1)
 
-### [React](#react)
+#### [React](#react)
 ***
 
 ## C
