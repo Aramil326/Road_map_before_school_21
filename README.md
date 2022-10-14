@@ -123,6 +123,7 @@
 
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/projects.jpg" width="400px" alt="project-statistics">
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/profile.jpg" width="400px" alt="profile">
+
 ***
 
 ## HTML
