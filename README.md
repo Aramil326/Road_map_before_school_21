@@ -5,9 +5,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aramil326&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aramil326&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aramil326&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aramil326&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aramil326&theme=solarized_dark)
