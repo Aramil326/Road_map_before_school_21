@@ -4,7 +4,7 @@
 
 ***
 
-## Что я умею, и что я использую
+### Что я умею, и что я использую
 #### 📚 Фреймворки, платформы и библиотеки
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
@@ -48,19 +48,19 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### 🕓 Версионный контроль
+#### 🕓 Версионный контроль
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ***
 
 
-## Свяжись со мной
+### Свяжись со мной
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aramil_Shaimardanow)
-## Code Wars
+### Code Wars
 [![codewars](https://www.codewars.com/users/Aramil326/badges/large)](https://www.codewars.com/users/Aramil326)
 ***
-## Немного статистики
+### Немного статистики
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aramil326&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aramil326&theme=solarized_dark)
@@ -70,7 +70,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aramil326&theme=solarized_dark)
 ***
 
-## Карта конспектов, ссылок на источники, откуда я черпал информацию, выполненных практических заданий и проектов
+### Карта конспектов, ссылок на источники, откуда я черпал информацию, выполненных практических заданий и проектов
 
 ### [C](https://github.com/Aramil326/resume#c-1)
 
