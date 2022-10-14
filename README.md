@@ -1667,10 +1667,459 @@
 
 
 >### ООП JS
+>>ООП на классах
+>>>[Введение](https://code.mu/ru/javascript/book/oop/intro/)
+
+>>>Классы и объекты. [Задание](https://code.mu/ru/javascript/book/oop/classes-objects/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/classes-objects)
+
+>>>Свойства объектов. [Задание](https://code.mu/ru/javascript/book/oop/objects-properties/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/objects-properties)
+
+>>>Несколько объектов одного класса. [Задание](https://code.mu/ru/javascript/book/oop/many-objects/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/many-objects)
+
+>>>Методы классов. [Задание](https://code.mu/ru/javascript/book/oop/class-methods/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class-methods)
+
+>>>Параметры методов. [Задание](https://code.mu/ru/javascript/book/oop/methods-parameters/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/methods-parameters)
+
+>>>Свойства внутри классов. [Задание](https://code.mu/ru/javascript/book/oop/properties-inside-class/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/properties-inside-class)
+
+>>>Методы внутри классов. [Задание](https://code.mu/ru/javascript/book/oop/methods-inside-class/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/methods-inside-class)
+
+>>>Объявление свойств. [Задание](https://code.mu/ru/javascript/book/oop/properties-declaration/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/properties-declaration)
+
+>>>Конструктор. [Задание](https://code.mu/ru/javascript/book/oop/class-constructor/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class-constructor)
+
+>>>Параметры в конструкторе. [Задание](https://code.mu/ru/javascript/book/oop/constructor-parameters/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/constructor-parameters)
+
+>>>Свойства через параметры конструктора. [Задание](https://code.mu/ru/javascript/book/oop/constructor-parameters-properties/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/constructor-parameters-properties)
+
+>>>Приватные свойства. [Задание](https://code.mu/ru/javascript/book/oop/private-properties/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/private-properties)
+
+>>>Приватные методы. [Задание](https://code.mu/ru/javascript/book/oop/private-methods/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/private-methods)
+
+>>>Приватность в старом стиле. [Задание](https://code.mu/ru/javascript/book/oop/privacy-old-style/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/privacy-old-style)
+
+>>>Геттеры свойств. [Задание](https://code.mu/ru/javascript/book/oop/properties-getters/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/properties-getters)
+
+>>>Сеттеры свойств. [Задание](https://code.mu/ru/javascript/book/oop/properties-setters/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/properties-setters)
+
+>>>Преимущества сеттеров и геттеров. [Задание](https://code.mu/ru/javascript/book/oop/getters-setters-advantages/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/getters-setters-advantages)
+
+>>>Цепочки методов. [Задание](https://code.mu/ru/javascript/book/oop/methods-chains/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/methods-chains)
+
+>>>Сравнение объектов. [Задание](https://code.mu/ru/javascript/book/oop/objects-comparison/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/objects-comparison)
+
+>>>Оператор instanceof. [Задание](https://code.mu/ru/javascript/book/oop/operator-instanceof/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/operator-instanceof)
+
+>>>Класс как набор методов. [Задание](https://code.mu/ru/javascript/book/oop/class-methods-set/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class-methods-set)
+
+>>>Объекты внутри классов. [Задание](https://code.mu/ru/javascript/book/oop/objects-inside-classes/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/objects-inside-classes)
+
+>>>Массив объектов. [Задание](https://code.mu/ru/javascript/book/oop/array-of-objects/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/array-of-objects)
+
+>>>Манипуляция объектов в классах. [Задание](https://code.mu/ru/javascript/book/oop/class-objects-manipulation/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class-objects-manipulation)
+
+>>>[Встроенные классы](https://code.mu/ru/javascript/book/oop/inbuild-classes/)
+
+>>>[Встроенные классы DOM](https://code.mu/ru/javascript/book/oop/inbuild-classes-dom/)
+
+
+>>Наследование
+>>>Наследование классов. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/intro/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/intro)
+
+>>>Наследование публичных методов. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/public-methods/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/public-methods)
+
+>>>Методы потомка. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/own-child-methods/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/own-child-methods)
+
+>>>Переопределение методов родителя. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/overriding-parent-methods/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/overriding-parent-methods)
+
+>>>Вызов переопределенного метода. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/calling-overriding-method/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/calling-overriding-method)
+
+>>>Конструктор при наследовании. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/constructor/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/constructor)
+
+>>>[Приватные методы при наследовании](https://code.mu/ru/javascript/book/oop/inheritance/private-methods/)
+
+>>>Приватные свойства при наследовании. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/private-properties/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/private-properties)
+
+>>>Проблема приватных свойств при наследовании. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/private-properties-problem/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/private-properties-problem)
+
+>>>Защищенные методы. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/protected-methods/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/protected-methods)
+
+>>>Защищенные свойства. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/protected-properties/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/protected-properties)
+
+>>>Иерархия наследования классов. [Задание](https://code.mu/ru/javascript/book/oop/inheritance/hierarchy/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/inheritance/hierarchy)
+
+>>>[Иерархия встроенных классов](https://code.mu/ru/javascript/book/oop/inheritance/inbuild-classes-hierarchy/)
+
+
+>>Продвинутое
+>>>Потеря контекста. [Задание](https://code.mu/ru/javascript/book/oop/context-losing/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/context-losing)
+
+>>>Код метода. [Задание](https://code.mu/ru/javascript/book/oop/method-code/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/method-code)
+
+>>>[Потеря контекста в коде метода](https://code.mu/ru/javascript/book/oop/method-context-losing/)
+
+>>>Конфликты имен. [Задание](https://code.mu/ru/javascript/book/oop/names-conflicts/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/names-conflicts)
+
+>>>[Анонимные классы](https://code.mu/ru/javascript/book/oop/anonymous-classes/)
+
+>>>Классы и модули. [Задание](https://code.mu/ru/javascript/book/oop/classes-modules/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/classes-modules)
+
+>>>Классы, модули и наследование. [Задание](https://code.mu/ru/javascript/book/oop/classes-modules-inheritance/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/classes-modules-inheritance)
+
+>>>Типы свойств объектов. [Задание](https://code.mu/ru/javascript/book/oop/properties-types/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/properties-types)
+
+>>>Геттеры аксессоров. [Задание](https://code.mu/ru/javascript/book/oop/accessors-getters/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/accessors-getters)
+
+>>>Сеттеры аксессоров. [Задание](https://code.mu/ru/javascript/book/oop/accessors-setters/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/accessors-setters)
+
+>>>[Геттеры мнимых свойств](https://code.mu/ru/javascript/book/oop/virtual-properties-getters/)
+
+>>>[Сеттеры мнимых свойств](https://code.mu/ru/javascript/book/oop/virtual-properties-setters/)
+
+
+>>Практикум
+>>>Класс Circle. [Задание](https://code.mu/ru/javascript/book/oop/class/Circle/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class/Circle)
+
+>>>Класс rectangle. [Задание](https://code.mu/ru/javascript/book/oop/class/Rectangle/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class/Rectangle)
+
+>>>Класс text. [Задание](https://code.mu/ru/javascript/book/oop/class/Text/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class/Text)
+
+>>>Класс period. [Задание](https://code.mu/ru/javascript/book/oop/class/Period/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class/Period)
+
+>>>Класс zate. [Задание](https://code.mu/ru/javascript/book/oop/class/Zate/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class/Zate)
+
+>>>Класс zateExt. [Задание](https://code.mu/ru/javascript/book/oop/class/ZateExt/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class/ZateExt)
+
+>>>Класс month. [Задание](https://code.mu/ru/javascript/book/oop/class/Month/). [Решение](https://github.com/Aramil326/javaScript/tree/master/book/oop/class/Month)
+
 
 >### JavaScript (Курс на юдеми от Ивана Петриченко. [Тык](https://www.udemy.com/course/javascript_full/))
+>>[Раздел 2. Основы JavaScript](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit?usp=sharing)
+>>>[Классификация типов данных в JavaScript](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.4rx9v5ja1ge5)
+
+>>>[Простое общение с пользователем](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.lz5kctjugdqp)
+
+>>>[Интерполяция (ES6)](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.1kpu3oqyuku2)
 
 
+>>>[Условия](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.am5wt034cwee)
 
->>[]()
-<a href="">
+>>>>[Тернарный оператор](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.4iuo4dkgcc8k)
+
+>>>>[Конструкция Switch](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.6a9rllhnox55)
+
+
+>>>[Функции, стрелочные функции (ES6)](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.nprjt94tnhak)
+
+>>>>[function declaration](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.xx2p3ivyvtoz)
+
+>>>>[function expression](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.wpdok7gode72)
+
+>>>>[Стрелочные функции](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.kpd1elfcprm3)
+
+>>>>[Callback функции](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.x79bz5n8x99u)
+
+
+>>>[Объекты, деструктуризация](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.c44ktnjpp184)
+
+>>>>[Удаление свойства из объекта](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.667a0rl2ulb)
+
+>>>>[Перебор объекта. for..in](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.sjwhndd8rsjf)
+
+>>>>[Деструктуризация объекта](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.cqxn6uob5wmg)
+
+
+>>>[Массивы и псевдомассивы](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.dmbdyx4bh9ah)
+
+>>>>[Удалить элемент массива](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.tphcirr0ecqa)
+
+>>>>[Добавление элемента массива](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.c0gvzfd3rjqn)
+
+>>>>[Перебор массива](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.3q3j90ev5bxx)
+
+>>>>[Основные методы массивов](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.pl591av5zdwn)
+
+>>>>[Сортировка чисел](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.gpg3gpd2g48v)
+
+
+>>>[Передача по ссылке или значению, spread оператор (ES6-ES9)](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.perscblt5ijc)
+
+>>>>[Передача по ссылке](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.kf0ta36aj503)
+
+>>>>[Копирование объекта циклом (поверхностное копирование)](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.exbpjb94taxx)
+
+>>>>[Object.assign() (поверхностное копирование)](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.hxb1pd9kq617)
+
+>>>>[Копирование массива](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.ln36mqiejhh3)
+
+>>>>[Spread оператор (...smt)](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.l6tskgbdr6qg)
+
+
+>>>[Основы ООП. Прототипно-ориентированное наследование](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.4ci8aqhifksg)
+
+>>>[Получение элементов со страницы](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.fbzzx0y4owen)
+
+>>>[События и их обработчики](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.l1csc43u5vjx)
+
+>>>>[Список родных событий JavaScript](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.bzzyma1qmj58)
+
+>>>>[Всплытие событий](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.9nxj1klqvxgk)
+
+>>>>[Отменяем стандартное поведение браузера](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.2emjq0rhsvpq)
+
+>>>>[Обработчик события вешается на элемент. Его нельзя повесить на пседомассив](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.w43a2lwv9juw)
+
+
+>>>[Навигация по DOM-элементам, data-атрибуты, преимущество for..of](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.842zx3wd0k7y)
+
+>>>[События на мобильных устройствах](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.u0aafeihagou)
+
+>>>[Async, defer, динамические скрипты](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.d1tpvcdqyqgh)
+
+>>>>[defer](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.sblu68qebbhy)
+
+>>>>[async](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.l9su1fkx9hdb)
+
+>>>>[Можно инициализировать новые скрипты таким образом](https://docs.google.com/document/d/1Uvme1-0V5dai89VZS68NZbi141NQ3rAfkuPCzoK-oV8/edit#heading=h.tm9kmf6cus3w)
+
+
+>>[Раздел 4. JavaScript в работе](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit?usp=sharing)
+>>>[ClassList и делегирование событий](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.2kwr7yv29x85)
+
+>>>>[classList.length](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.g4yo816krzfg)
+
+>>>>[classList.item](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.3a8uryj57iiq)
+
+>>>>[classList.add()](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.ews6lzmks6i)
+
+>>>>[classList.remove()](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.g1tk0ufl6a0i)
+
+>>>>[classList.toggle()](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.tceeduijp3ox)
+
+>>>>[classList.contains()](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.2sem13qqwepp)
+
+>>>>[btns[0].className](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.pje48e148cc6)
+
+>>>>[Делегирование событий](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.v15ngqsrjawe)
+
+>>>[Скрипты и время из выполнения. setTimeot и setInterval](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.b1v5o17p3b1)
+
+>>>[Чем рекурсивный setTimeout лучше, чем setInterval](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.hf4wnie6fmps)
+
+>>>[Работы с датами](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.tiqr3y7juf4f)
+
+>>>>[Дата и время](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.vqr8y8ja9uel)
+
+>>>>[Смотрим, за сколько отработал цикл](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.pcr3wp6zxexo)
+
+>>>[Параметры документа, окна и работа с ними](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.g4lccmmfx15e)
+
+>>>>[window - это окно, в котором показывается документ](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.ialjl3vjiuqp)
+
+>>>>[screen - весь экран устройства](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.yk4ygl6qs1fr)
+
+>>>>[получаем все координаты объекта](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.81w8iuwjxu5b)
+
+>>>>[Как посмотреть примененные к элементу стили](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.inrpryj6z2gn)
+
+>>>>[Ошибка](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.dlem22fadidg)
+
+>>>[Узнать код клавиши](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.gwcekzrnsqh8)
+
+>>>[Функции-конструкторы](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.avsksx6a6ghs)
+
+>>>[Контекст вызова. This](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.z1tyaij8sda)
+
+>>>>[Функция может вызываться 4-мя способами:](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.xj40nsl3m4)
+
+>>>>>[1. Обычная функция: this = window, но при "use sctrict" - undefined](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.a8n33klfugig)
+
+>>>>>[2. Контекст у методов объекта - сам объект](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.xtfzwxnzm6or)
+
+>>>>>[3. this в конструкторах - это новый экземпляр объекта](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.y9btipw2v7rx)
+
+>>>>[Особенности стрелочной функции](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.mggzn0woeq06)
+
+>>>>>[Когда callback функция у обработчика написана в классическом режиме, то контекстом вызова будет сам элемент, на котором произошло событие.](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.4jik9ou7vaqo)
+
+>>>>>[У стрелочной функции нету своего контекста вызова, она берет его у своего родителя](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.s1wqqgtlg9yf)
+
+>>>>>[Если возвращаемое значение помещается в одну строку, то можно использовать такой синтаксис. При этом сам return писать не нужно](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.buxazs8x8zfz)
+
+>>>[Классы (ES6)](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.hw07wofprdta)
+>>>>[Классы - это красивые обертки функций конструкторов. Синтаксический сахар](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.turcmzq6ugyb)
+
+>>>>[Принципы ООП](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.m86fgjygvjxd)
+
+>>>[Rest оператор и параметры по умолчанию (ES6)](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.gn2kh2okh7yl)
+>>>>[Rest оператор](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.h4ntodxbjraq)
+
+>>>>[Параметры по умолчанию](https://docs.google.com/document/d/1TuE9V7pbB4jYKCkJ7VY6V6g-6LGHb1j0DWyCursECm8/edit#heading=h.gi3vvwkhpwki)
+
+
+>>[Раздел 5. Продвинутый JavaScript](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit?usp=sharing)
+>>>[JSON формат передачи данных, глубокое клонирование объектов](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.uc2tfz4dyvnh)
+>>>>[JSON.stringify](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.637o6mp7405o)
+
+>>>>[JSON.parse](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.vojfn0ow0j1s)
+
+>>>>[Глубокое клонирование оъектов](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.c4gk80yaf53q)
+
+>>>[Ajax и общение с сервером](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.zdd01lkpphp7)
+>>>>[Создание запроса на сервер](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.94u7yh5ha2s3)
+
+>>>>[Указываем тип контента и кодировку для отправки](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.u9rcalw3g888)
+
+>>>>[Метод для отправки запроса](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.1f8d8ncnwmoi)
+
+>>>>[Свойства объекта XMLHttpRequest](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.lqir0xnm22zx)
+
+>>>>[События объекта XMLHttpRequest](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.us5exomqpg8v)
+
+>>>>>[readystatechange](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.nx1cglluzzvd)
+
+>>>>>[load](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.ekziqncaz6ki)
+
+
+>>>[Promise (ES6)](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.od09rwanq825)
+>>>>[Пример организации функционала, схожего с промисом](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.2bq7ki9unbnl)
+
+>>>>[Сам промис](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.jxtqsis7sc52)
+
+
+>>>[Fetch API](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.saaht5je63bl)
+
+
+>>>[Методы перебора массивов](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.banysrbll1as)
+>>>>[filter](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.ur3p1yja7urw)
+
+>>>>[map](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.pd3nrsed6o0n)
+
+>>>>[every/some](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.2xmkej6utqrh)
+
+>>>>>[every](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.m1t6rxvi95d8)
+
+>>>>>[some](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.azwkfzhnrswf)
+
+>>>>>[reduce](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.13o7cb0t6nm)
+
+
+>>>[Практический пример](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.p4avurwlwq3p)
+
+
+>>>[Подробно про npm и проект. JSON-server](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.2290p01utnjf)
+>>>>[Инициализация npm проекта](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.btlknqe11gvd)
+
+>>>>[Скачивание других npm пакетов](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.lz2dkoykaome)
+
+>>>>>[Глобально](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.ctpswjdxrdd6)
+
+>>>>>[Локально](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.5wzqdh9pa1x3)
+
+>>>>>[Только для разработки](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.f6o3nwva50sf)
+
+>>>>>[Для работы проекта внутри](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.f6h1gmigr2tq)
+
+
+>>>[Получение данных с сервера. Async/Await (ES8)](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.pgrs5fdm7pc)
+>>>>[Async/Await](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.mp388fjz7b0b)
+
+>>>>[Object.entries(obj). Возвращает матрицу объекта](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.j9yoi06m2yb)
+
+>>>>[.ok](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.l2a9rwf1g35u)
+
+>>>>[status](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.swm5js7tb6dg)
+
+>>>>[throw](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.qol8ddgyndl5)
+
+
+>>>[Обращаемся к элементу, который выделили инспектором на странице](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.nput74j0nc12)
+
+
+>>>[Дополнительно: Что такое библиотеки. Библиотека axios](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.8eud32h326bs)
+
+
+>>>[Как сохранить данные без БД. Работа с localStorage](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.hxi91vjtiii)
+>>>>[localStorage.setItem('ключ', 'значение')](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.3pnkcahq71r5)
+
+>>>>[localStorage.getItem('ключ')](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.lj8wttaanmh3)
+
+>>>>[localStorage.removeItem("Ключ")](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.x3nsqw5vjzr8)
+
+>>>>[localStorage.clear()](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.hb8ztjet75r9)
+
+
+>>>[Регулярные выражения](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.hgw1kv6sfvug)
+>>>>[search()](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.fknf6178jo9t)
+
+>>>>[match()](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.362vhvbseu1s)
+
+>>>>[replace()](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.7dkqy9shd01)
+
+>>>>[test()](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.hh67pwcjwv60)
+
+>>>>[Классы в регулярных выражениях](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.gei29j7jktz3)
+
+>>>>[Обратные классы](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.bel75v2di9wl)
+
+
+>>>[Геттеры и сеттеры](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.lu0j6gmywbn)
+
+
+>>>[Инкапсуляция](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.orvxz82rzqgb)
+
+
+>>>[Прием модуль, как и зачем его использовать](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.44c3fuhc97cb)
+>>>>[Два способа создания модулей](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.7miqxpr9pho4)
+
+>>>>>[Первый](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.z64yj773ut07)
+
+>>>>>[Второй](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.sjgfyd1aad3i)
+
+
+>>>[Webpack. Собираем наш проект](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.21r3nm2zohjf)
+>>>>[Модули CommonJS](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.6uuear5edpe4)
+
+>>>>[Webpack](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.3p6xeznqc8f6)
+
+
+>>>[ES6 Modules](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.sdmjjidvgmo5)
+>>>>[Менять имена переменных](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.kafu3tt9yb73)
+
+>>>>[Импортировать вообще все](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.mjctgyosvwsc)
+
+>>>>[Экспортировать по умолчанию (только один)](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.ey87u2zhp0jl)
+
+>>>>[Атрибут type="module"](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.bttll7rmho5x)
+
+
+>>>[Ошибки. Как избежать "поломки" своего кода](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.gkhvs0vhbrin)
+>>>>[Объект ошибки](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.usjehp7vxn91)
+
+>>>>[Дефолтный блок](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.y9vohhpw91a1)
+
+
+>>>[Как превратить код ES6+ в старый формат ES5. Babel, Core.js и полифиллы](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.fl2ad8to8rns)
+>>>>[Usage Guide · Babel](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.j9o50r7pntn)
+
+
+>>>[Современные библиотеки и фрэймворки](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.mqglusb76g1v)
+>>>>[Angular](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.t0rjf79d4848)
+
+>>>>[React](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.33r0cq4gi4ro)
+
+>>>>[Vue](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.dt2z2y346l5z)
+
+
+>>>[Библиотека Jquery](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.lvsy2ztchnn6)
+>>>>[Получение элемента по уникальному идентификатору](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.ymyao8gl4lhn)
+
+
+>>>[Функции-генераторы](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.hfgg8ygcwct8)
+
+
+>>>[JS анимации, requestAnimationFrame](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.6b66izk5zd8o)
+
+
+>>>[Event loop, подробная работа асинхронных и синхронных операций](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.uhmujj4afipy)
+>>>>[Что у нас в коде выполняется асинхронно?](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.ms8q2ztk17jk)
