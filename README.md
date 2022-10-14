@@ -52,7 +52,7 @@
 
 
 ## Свяжись со мной
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aramil_Shaimardanow)
 ## Code Wars
 [![codewars](https://www.codewars.com/users/Aramil326/badges/large)](https://www.codewars.com/users/Aramil326)
 ***
