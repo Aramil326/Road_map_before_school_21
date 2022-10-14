@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=F70000&multiline=true&width=900&height=150&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D1%80%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C;%D0%94%D0%B0%D0%B2%D0%B0%D0%B9+%D1%8F+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B6%D1%83+%D1%82%D0%B5%D0%B1%D0%B5+%D1%82%D0%BE%2C+%D1%87%D1%82%D0%BE+%D1%83%D0%BC%D0%B5%D1%8E)](https://git.io/typing-svg)
 ***
-# Что я умею, и что я использую:
+# Что я умею, и что я использую
 ### 📚 Фреймворки, платформы и библиотеки
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
@@ -49,7 +49,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ***
-# Code Wars:
+# Code Wars
 [![codewars](https://www.codewars.com/users/Aramil326/badges/large)](https://www.codewars.com/users/Aramil326)
 ***
 # Немного статистики
@@ -71,7 +71,7 @@
 
 
 
-# Карта конспектов, ссылок на источники, откуда я черпал информацию, выполненных практических заданий и проектов:
+# Карта конспектов, ссылок на источники, откуда я черпал информацию, выполненных практических заданий и проектов
 
 ## [C](https://github.com/Aramil326/resume#c-1)
 
