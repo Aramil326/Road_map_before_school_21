@@ -104,6 +104,9 @@
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/profile.jpg" width="400px" alt="profile">
 
 ## HTML
+
+В разделе HTML ты найдешь только ссылки на источник, где я изучал информацию. Практических примеров тут нету.
+
 >### Основы HTML
 >>[Основная структура страницы](https://code.mu/ru/markup/book/prime/html/page-structure/)
 
@@ -146,10 +149,11 @@
 
 >>[Автозаполнение полей](https://code.mu/ru/markup/book/supreme/form/autocomplete/)
 
-В разделе HTML ты найдешь только ссылки на источник, где я изучал информацию. Практических примеров тут нету.
-
 
 ## CSS
+
+В разделе CSS ты найдешь только ссылки на источник, где я изучал информацию. Практических примеров тут нету.
+
 >### Основы CSS
 >>[Работа с цветом](https://code.mu/ru/markup/book/prime/css/colors/)
 
@@ -460,9 +464,11 @@
 
 >>[Размеры шрифтов](https://code.mu/ru/markup/book/supreme/responsive/font-sizes/)
 
-В разделе CSS ты найдешь только ссылки на источник, где я изучал информацию. Практических примеров тут нету.
 
 ## LESS
+
+В разделе LESS ты найдешь только ссылки на источник, где я изучал информацию. Практических примеров тут нету.
+
 >>[Введение](https://code.mu/ru/markup/book/prep/less/intro/)
 
 >>[Комментарии](https://code.mu/ru/markup/book/prep/less/comments/)
@@ -512,6 +518,9 @@
 >>[Вендорные префиксы](https://code.mu/ru/markup/book/prep/less/vendor-prefixes/)
 
 ## БЭМ
+
+В разделе БЭМ ты найдешь только ссылки на источник, где я изучал информацию. Практических примеров тут нету.
+
 >### Быстрый старт. Необходимый минимум для знакомства с БЭМ
 >>[Блок](https://ru.bem.info/methodology/quick-start/#%D0%B1%D0%BB%D0%BE%D0%BA)
 
@@ -627,6 +636,9 @@
 
 
 ## JavaScript
+
+В разделе JavaScript будут как и ссылки на источники, откуда я черпал информацию, так и решенные практические задания и мои собственные конспекты с кодом в Google docs
+
 >### JavaScript основы
 >>Основы
 >>>[Введение](https://code.mu/ru/javascript/book/prime/basis/intro/)
@@ -2123,3 +2135,193 @@
 
 >>>[Event loop, подробная работа асинхронных и синхронных операций](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.uhmujj4afipy)
 >>>>[Что у нас в коде выполняется асинхронно?](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.ms8q2ztk17jk)
+
+## React
+
+В разделе React будут как и ссылки на источники, откуда я черпал информацию, так и решенные практические задания и мои собственные конспекты с кодом в Google docs
+
+>### Из официальной документации React
+>>Основные понятия
+>>>[Привет, мир](https://ru.reactjs.org/docs/hello-world.html)
+
+>>>[Знакомство с JSX](https://ru.reactjs.org/docs/introducing-jsx.html)
+
+>>>[Рендеринг элементов](https://ru.reactjs.org/docs/rendering-elements.html)
+
+>>>[Компоненты и пропсы](https://ru.reactjs.org/docs/components-and-props.html)
+
+>>>[Состояние и жизненный цикл](https://ru.reactjs.org/docs/state-and-lifecycle.html)
+
+>>>[Обработка событий](https://ru.reactjs.org/docs/handling-events.html)
+
+>>>[Условный рендеринг](https://ru.reactjs.org/docs/conditional-rendering.html)
+
+>>>Списки и ключи. [Теория](https://ru.reactjs.org/docs/lists-and-keys.html). [Практика](https://github.com/Aramil326/react-learning/commit/eb2b1d7b644e6368cca2b7c558ffe15dbb6bc499)
+
+>>>[Формы](https://ru.reactjs.org/docs/forms.html)
+
+>>>[Подъем состояния](https://ru.reactjs.org/docs/lifting-state-up.html)
+
+>>>[Композиция против наследования](https://ru.reactjs.org/docs/composition-vs-inheritance.html)
+
+>>>[Философия React](https://ru.reactjs.org/docs/thinking-in-react.html)
+
+
+>>Продвинутые темы
+>>>[Доступность контента](https://ru.reactjs.org/docs/accessibility.html)
+
+>>>[Разделение кода](https://ru.reactjs.org/docs/code-splitting.html)
+
+>>>[Контекст](https://ru.reactjs.org/docs/context.html)
+
+>>>[Предохранители](https://ru.reactjs.org/docs/error-boundaries.html)
+
+>>>[Перенаправление рефов](https://ru.reactjs.org/docs/forwarding-refs.html). [Еще одна статья](https://makeweb.me/anatomiya-react-urok-12-chto-takoe-ref-y-i-kak-imi-polzovatsya/)
+
+>>>[Фрагменты](https://ru.reactjs.org/docs/fragments.html). [Видео, которое я смотрел](https://www.youtube.com/watch?v=GXgnR-n_yyw)
+
+>>>[Компоненты высшего порядка](https://ru.reactjs.org/docs/higher-order-components.html)
+
+>>>[Взаимодействие со сторонними библиотеками](https://ru.reactjs.org/docs/integrating-with-other-libraries.html)
+
+>>>[JSX в деталях](https://ru.reactjs.org/docs/jsx-in-depth.html)
+
+>>>[Оптимизация производительности](https://ru.reactjs.org/docs/optimizing-performance.html)
+
+>>>[Порталы](https://ru.reactjs.org/docs/portals.html)
+
+>>>[API для компонента Profiler](https://ru.reactjs.org/docs/profiler.html)
+
+>>>[React без ES6](https://ru.reactjs.org/docs/react-without-es6.html)
+
+>>>[React без JSX](https://ru.reactjs.org/docs/react-without-jsx.html)
+
+>>>[Согласование](https://ru.reactjs.org/docs/reconciliation.html)
+
+>>>[Рефы и DOM](https://ru.reactjs.org/docs/refs-and-the-dom.html). [Еще одна статья](https://makeweb.me/anatomiya-react-urok-12-chto-takoe-ref-y-i-kak-imi-polzovatsya/)
+
+>>>[Рендер-пропсы](https://ru.reactjs.org/docs/render-props.html)
+
+>>>Строгий режим. [Теория](https://ru.reactjs.org/docs/strict-mode.html). [Практика](https://github.com/Aramil326/react-learning/commit/4f68eafa9d9e3321a9a0c94d8345a689bb7eb7d5)
+
+>>>[Проверка типов с помощью PropsTypes](https://ru.reactjs.org/docs/typechecking-with-proptypes.html)
+
+>>>[Неуправляемые компоненты](https://ru.reactjs.org/docs/uncontrolled-components.html)
+
+>>>[Веб-компоненты](https://ru.reactjs.org/docs/web-components.html)
+
+
+>>Хуки
+>>>[Введение в хуки](https://ru.reactjs.org/docs/hooks-intro.html)
+
+>>>[Краткий обзор хуков](https://ru.reactjs.org/docs/hooks-overview.html)
+
+>>>[Использование хука состояния](https://ru.reactjs.org/docs/hooks-state.html)
+
+>>>[Использование хука эффекта](https://ru.reactjs.org/docs/hooks-effect.html)
+
+>>>[Правила хуков](https://ru.reactjs.org/docs/hooks-rules.html)
+
+>>>[Создание пользовательских хуков](https://ru.reactjs.org/docs/hooks-custom.html)
+
+
+>### React (Курс на юдеми от Ивана Петриченко. [Тык](https://www.udemy.com/course/javascript_full/))
+>>Библиотека React. Базовый уровень. [pet-project](https://github.com/Aramil326/react-learning/tree/master/employees-app). [Конспект](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit?usp=sharing)
+>>>[Фундаментальные принципы Реакта](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.j85p9c2kj3m6)
+
+>>>[Императивный подход говорит как именно дойти к результату, то есть конкретные шаги](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.gp0oebl28d4j)
+
+>>>[Декларативный подход говорит, какой именно результат нам нужен](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.rqoo9bjybjk2)
+
+>>>[Что делает Реакт уникальным?](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.6frtg5kg8ptw)
+
+>>>[Create React App - Создаем свое приложение](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.lregnvg06paa)
+
+>>>[Работаем с JSX-препроцессором, ограничения в нем](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.9qyqnmjxaipq)
+
+>>>>[Импортировать React во всех компонентах не нужно](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.wv5ea5bi34ul)
+
+>>>>[Как вставлять значения переменных в верстку](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.lzf03dh7oymb)
+
+>>>>[Про атрибуты в реакте](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.qzv8ud2l8dah)
+
+>>>[Элементы и компоненты](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.xgx6xwwz663)
+
+>>>>[Компоненты](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.5dldqasou6e6)
+
+>>>>[Использование тернарного оператора (обычный if нельзя)](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.diuxialr6car)
+
+>>>Строгий режим. [Конспект](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.gkd8tbk0unhy). [Практика](https://github.com/Aramil326/react-learning/commit/4f68eafa9d9e3321a9a0c94d8345a689bb7eb7d5)
+
+>>>[Создание нового проекта](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.qtd7fkrgs63v)
+
+>>>[Свойства компонентов](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.bgwe1j547joa)
+
+>>>Практика свойств на проекте. [Конспект](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.9u31xqza44m8). [Практика](https://github.com/Aramil326/react-learning/commit/234c044e9c3d0f41921e32df73d76483f2414cc9)
+
+>>>Работа со списками и алгоритм согласования. [Конспект](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.g63emnd6fckx). [Практика](https://github.com/Aramil326/react-learning/commit/eb2b1d7b644e6368cca2b7c558ffe15dbb6bc499)
+
+>>>[Состояния компонентов](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.qb4kf1e8yurk)
+
+>>>[События в React и вспоминаем this](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.hybl5y4f2hbo)
+
+>>>>[Что можно сделать, чтобы не потерять контекст вызова](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.i4bn0jix3as9)
+
+>>>>[Использование аргументов в обработчиках событий](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.3dqlbmfqmlpe)
+
+>>>Иммутабельность состояния и собственные события. [Конспект](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.cvlk9ssg0xon). [Практика](https://github.com/Aramil326/react-learning/commit/0331e6d4893d8b5ab2c9e2d14949f43cf5041f81)
+
+>>>[Практика. Подъем состояния](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.r5hdjcf9k6ut)
+
+>>>[React-фрагменты](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.4vobh92duw06)
+
+>>>>[1](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.ksljlbo4u3dv)
+
+>>>>[2](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.o66z48q0ls6o)
+
+>>>[Семантика и доступность контента](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.a5vsniepc1q7)
+
+>>>[Стили в React. Inline styles](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.k5gfy3tatnqx)
+
+>>>[Стили в React. CSS и SASS/SCSS](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.vo6tbvtam420)
+
+>>>[Стили в React. Динамические классы и стили](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.j9oka5ptc47u)
+
+>>>[Стили в React. Styled Components](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.wa5l6p79nrwy)
+>>>>[CSS in JS](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.xra6oam2ze8n)
+>>>>>[Тегированные шаблонные строки](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.gi5m04yuf285)
+
+>>>[Стили в React. Готовые библиотеки компонентов со стилями](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.xv7g685mo1d0)
+
+>>>[Поля классов и static](https://docs.google.com/document/d/1OGkUvtqH2Fgcz_Y1IuJPS_UjvK1KtS4AvpNDwv8W6BI/edit#heading=h.b6nij8tn5faj)
+
+
+>>Библиотека React. Средний фундаментальный уровень. [pet-project](https://github.com/Aramil326/react-learning/tree/master/marvel-app). [Конспект](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit?usp=sharing)
+
+>>>[Что такое API и как работают реальные приложения](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.2axmugabw96d)
+
+>>>[Обращаемся к статическим файлам в папке src](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.2x9cd7i7qev2)
+
+>>>[Жизненный цикл компонентов](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.cmhitzt8qcit)
+
+>>>[Предохранители (Error Boundaries)](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.elq88pcx3h4s)
+
+>>>[Проверка типов с помощью PropsTypes](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.8cjsgdrnu6g0)
+
+>>>[Вставка элементов через props.children](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.pace42zeo3i)
+>>>>[Передаем пропсы в компоненты](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.4j1ovgbcee0n)
+
+>>>[Специализация и наследование](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.l2jsofr6wcj8)
+>>>>[Чем композиция лучше, чем наследование в реакте (что из них используется чаще?)](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.u8q4zp5yf9sj)
+
+>>>[Render-props паттерт](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.cgfsc4ujo8q)
+
+>>>[Что такое ref и зачем он нужен](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.8oans43eouct)
+>>>>[Пример](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.pdzb4itzg0qs)
+
+>>>[Порталы](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.4zdxkn1esqln)
+>>>>[Задача](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.rnwuta9oh0i5)
+
+>>>>[Как ведут себя обработчики событий при использовании порталов](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.sq6qoq23kpgi)
+
+>>>["Бандлинг" и выгрузка проекта на сервер](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.8sg8m9duf0fw)
