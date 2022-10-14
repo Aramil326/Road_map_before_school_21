@@ -48,7 +48,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+***
 # Code Wars:
 [![codewars](https://www.codewars.com/users/Aramil326/badges/large)](https://www.codewars.com/users/Aramil326)
 
@@ -60,7 +60,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aramil326&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aramil326&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aramil326&theme=solarized_dark)
-
+***
 
 
 
