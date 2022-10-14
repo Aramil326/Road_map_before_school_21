@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B7F7&center=true&vCenter=true&width=800&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D1%80%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C)](https://git.io/typing-svg)
 ***
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B7F7&center=true&vCenter=true&width=800&lines=Frontend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+<h1 style="text-align: center;">Frontend разработчик</h1>
 ***
 ## Что я умею, и что я использую
 #### 📚 Фреймворки, платформы и библиотеки
