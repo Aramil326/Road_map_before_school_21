@@ -123,6 +123,7 @@
 
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/projects.jpg" width="400px" alt="project-statistics">
 <img src="https://github.com/Aramil326/resume/blob/master/C-school21/img/profile.jpg" width="400px" alt="profile">
+***
 
 ## HTML
 
@@ -169,7 +170,7 @@
 >>[Псевдоклассы для элементов форм](https://code.mu/ru/markup/book/supreme/form/pseudo/)
 
 >>[Автозаполнение полей](https://code.mu/ru/markup/book/supreme/form/autocomplete/)
-
+***
 
 ## CSS
 
@@ -484,7 +485,7 @@
 >>[Плиточка с отступами](https://code.mu/ru/markup/book/supreme/responsive/tiles-gap/)
 
 >>[Размеры шрифтов](https://code.mu/ru/markup/book/supreme/responsive/font-sizes/)
-
+***
 
 ## LESS
 
@@ -537,6 +538,7 @@
 >>[Импортирование файлов](https://code.mu/ru/markup/book/prep/less/files-import/)
 
 >>[Вендорные префиксы](https://code.mu/ru/markup/book/prep/less/vendor-prefixes/)
+***
 
 ## БЭМ
 
@@ -654,7 +656,7 @@
 >>[Способы получения декларации](https://ru.bem.info/methodology/declarations/#%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D0%B8)
 
 >>[Работы с декларациями](https://ru.bem.info/methodology/declarations/#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B4%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D1%8F%D0%BC%D0%B8)
-
+***
 
 ## JavaScript
 
@@ -2156,6 +2158,7 @@
 
 >>>[Event loop, подробная работа асинхронных и синхронных операций](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.uhmujj4afipy)
 >>>>[Что у нас в коде выполняется асинхронно?](https://docs.google.com/document/d/11fyJ-M3MgNqXo9gVNGnFzks1pko1m6pM_sjdm7J8Ksw/edit#heading=h.ms8q2ztk17jk)
+***
 
 ## React
 
@@ -2346,3 +2349,4 @@
 >>>>[Как ведут себя обработчики событий при использовании порталов](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.sq6qoq23kpgi)
 
 >>>["Бандлинг" и выгрузка проекта на сервер](https://docs.google.com/document/d/1wLW1QGbdmkiox-wEggCNVcLU7G0YFbJ7ZX3ifOC4UnE/edit#heading=h.8sg8m9duf0fw)
+***
