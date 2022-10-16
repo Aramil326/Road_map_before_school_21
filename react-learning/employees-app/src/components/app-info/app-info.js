@@ -1,5 +1,11 @@
-import './app-info.css'
+import './app-info.css'  // Импортируем css файл компонента AppInfo
 
+/**
+ * Функциональный компонент, который возращаем верстку компонента
+ * @param employees общее количество сотрудников. Параметр передается через пропсы, которые мы сразу деструктуризируем
+ * @param increased количество сотрудников, которые получат премию. Параметр передается через пропсы, которые мы сразу деструктуризируем
+ * @return возвращает JSX.Element - верстку компонента App Info
+ */
 const AppInfo = ({ increased, employees }) => {
   return (
     <div className="app-info" >
@@ -10,4 +16,4 @@ const AppInfo = ({ increased, employees }) => {
   )
 }
 
-export default AppInfo;
+export default AppInfo;  // Экспортируем (по умолчанию) компонент AppInfo

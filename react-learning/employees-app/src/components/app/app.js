@@ -1,6 +1,6 @@
 import { Component } from 'react';
 
-import AppInfo from '../app-info/app-info';
+import AppInfo from '../app-info/app-info';  // Импортируем компонент AppInfo
 import SearchPanel from '../search-panel/search-panel';
 import AppFilter from '../app-filter/app-filter';
 import EmployeeList from '../employee-list/employee-list';
@@ -9,6 +9,10 @@ import EmployeesAddForm from '../employee-add-form/employee-add-form';
 import './app.css';
 
 class App extends Component {
+  /**
+   * @param props просы, переданные в компонент
+   * @param this.state.data данные, которые "приходят нам от сервера"
+   */
   constructor(props) {
     super(props);
     this.state = {
@@ -99,13 +103,13 @@ class App extends Component {
         <AppInfo
           employees={employees}
           increased={increased}
-        />
+        /> {/* Вставляем компонент AppInfo в верстку приложения и передаем ему два пропса (employees, increased) */}
 
-        <div className="search-panel">
-          <SearchPanel onUpdateSearch={this.onUpdateSearch} />
+        <div className="search-panel">  {/* Добавляем на странице блок search-panel, в котором будут располагаться два компонента (поиск и фильтры) */}
+          <SearchPanel onUpdateSearch={this.onUpdateSearch} />  {/* Вставляем компонент поиска сотрудников, куда */}
           <AppFilter filter={filter}
             onFilterSelect={this.onFilterSelect}
-          />
+          />  {/* Вставляем компонент фильтрв сотрудников, куда передаем */}
         </div>
 
         <EmployeeList

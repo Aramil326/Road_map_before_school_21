@@ -61,7 +61,7 @@
 ***
 
 ### Code Wars
-[![codewars](https://www.codewars.com/users/Aramil326/badges/large)](https://www.codewars.com/users/Aramil326)
+[![codewars](https://www.codewars.com/users/Aramil326/badges/small)](https://www.codewars.com/users/Aramil326)
 ***
 ### Немного статистики
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aramil326&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
